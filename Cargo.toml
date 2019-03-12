@@ -1,0 +1,27 @@
+[package]
+name = "mac-minitables"
+version = "0.1.0"
+authors = ["Daan Sprenkels <hello@dsprenkels.com>"]
+description = "Lookup table tool for reversing MAC address hashes"
+
+[profile.dev]
+opt-level = 2
+
+[profile.test]
+opt-level = 2
+
+[dependencies]
+env_logger = "0.6"
+lazy_static = "1"
+log = "0.4"
+quick-error = "1.2"
+regex = "1"
+sha2 = "0.8"
+
+[dependencies.clap]
+version = "2"
+default-features = false
+features = [ "suggestions", "color" ]
+
+[dev-dependencies]
+quickcheck = "0.6"

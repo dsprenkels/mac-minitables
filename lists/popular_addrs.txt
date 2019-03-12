@@ -1,0 +1,2565 @@
+48-AD-08   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+2C-AB-00   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+00-E0-FC   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+24-DF-6A   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+00-9A-CD   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+80-7A-BF   (hex)		HTC Corporation
+3C-5A-B4   (hex)		Google, Inc.
+00-1A-11   (hex)		Google, Inc.
+90-E7-C4   (hex)		HTC Corporation
+80-38-BC   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+D4-40-F0   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+64-A6-51   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+E8-CD-2D   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+AC-E2-15   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+EC-23-3D   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+78-F5-FD   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+80-B6-86   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+10-C6-1F   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+88-53-D4   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+0C-37-DC   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+BC-76-70   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+24-DB-AC   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+0C-45-BA   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+CC-A2-23   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+E8-08-8B   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+60-E7-01   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+7C-61-93   (hex)		HTC Corporation
+AC-85-3D   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+74-88-2A   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+78-D7-52   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+E0-24-7F   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+00-46-4B   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+70-7B-E8   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+54-89-98   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+08-19-A6   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+3C-F8-08   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+B4-15-13   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+28-31-52   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+DC-D2-FC   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+28-5F-DB   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+40-4D-8E   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+78-1D-BA   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+00-1E-10   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+D0-3E-5C   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+F8-98-B9   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+2C-CF-58   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+E4-C2-D1   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+88-A2-D7   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+3C-47-11   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+E8-F2-E2   (hex)		LG Innotek
+A4-81-EE   (hex)		Nokia Corporation
+4C-7F-62   (hex)		Nokia Corporation
+2C-8A-72   (hex)		HTC Corporation
+40-7A-80   (hex)		Nokia Corporation
+98-0D-2E   (hex)		HTC Corporation
+74-5F-00   (hex)		Samsung Semiconductor Inc.
+A8-26-D9   (hex)		HTC Corporation
+B0-5C-E5   (hex)		Nokia Corporation
+D4-20-6D   (hex)		HTC Corporation
+D4-C1-FC   (hex)		Nokia Corporation
+48-DC-FB   (hex)		Nokia Corporation
+E0-A6-70   (hex)		Nokia Corporation
+6C-9B-02   (hex)		Nokia Corporation
+0C-DD-EF   (hex)		Nokia Corporation
+00-24-92   (hex)		Motorola, Broadband Solutions Group
+00-23-C2   (hex)		SAMSUNG Electronics. Co. LTD
+00-0D-E5   (hex)		Samsung Thales
+00-0D-AE   (hex)		SAMSUNG HEAVY INDUSTRIES CO., LTD.
+00-0A-28   (hex)		Motorola
+00-E0-03   (hex)		NOKIA WIRELESS BUSINESS COMMUN
+00-40-43   (hex)		Nokia Siemens Networks GmbH & Co. KG.
+80-6C-1B   (hex)		Motorola Mobility LLC, a Lenovo Company
+A4-70-D6   (hex)		Motorola Mobility LLC, a Lenovo Company
+00-13-A9   (hex)		Sony Corporation
+D0-D0-4B   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+38-2D-E8   (hex)		Samsung Electronics Co.,Ltd
+D0-87-E2   (hex)		Samsung Electronics Co.,Ltd
+20-55-31   (hex)		Samsung Electronics Co.,Ltd
+54-40-AD   (hex)		Samsung Electronics Co.,Ltd
+84-2E-27   (hex)		Samsung Electronics Co.,Ltd
+50-F0-D3   (hex)		Samsung Electronics Co.,Ltd
+84-11-9E   (hex)		Samsung Electronics Co.,Ltd
+08-EC-A9   (hex)		Samsung Electronics Co.,Ltd
+10-D3-8A   (hex)		Samsung Electronics Co.,Ltd
+38-2D-D1   (hex)		Samsung Electronics Co.,Ltd
+E0-CB-EE   (hex)		Samsung Electronics Co.,Ltd
+64-B8-53   (hex)		Samsung Electronics Co.,Ltd
+F4-42-8F   (hex)		Samsung Electronics Co.,Ltd
+18-83-31   (hex)		Samsung Electronics Co.,Ltd
+84-55-A5   (hex)		Samsung Electronics Co.,Ltd
+A8-7C-01   (hex)		Samsung Electronics Co.,Ltd
+C0-11-73   (hex)		Samsung Electronics Co.,Ltd
+BC-E6-3F   (hex)		Samsung Electronics Co.,Ltd
+B8-57-D8   (hex)		Samsung Electronics Co.,Ltd
+94-B1-0A   (hex)		Samsung Electronics Co.,Ltd
+E4-58-B8   (hex)		Samsung Electronics Co.,Ltd
+08-8C-2C   (hex)		Samsung Electronics Co.,Ltd
+B8-6C-E8   (hex)		Samsung Electronics Co.,Ltd
+9C-65-B0   (hex)		Samsung Electronics Co.,Ltd
+C8-A8-23   (hex)		Samsung Electronics Co.,Ltd
+C4-42-02   (hex)		Samsung Electronics Co.,Ltd
+D0-59-E4   (hex)		Samsung Electronics Co.,Ltd
+64-B3-10   (hex)		Samsung Electronics Co.,Ltd
+18-2A-7B   (hex)		Nintendo Co., Ltd.
+00-24-F3   (hex)		Nintendo Co., Ltd.
+A4-5C-27   (hex)		Nintendo Co., Ltd.
+00-1D-BC   (hex)		Nintendo Co., Ltd.
+00-1F-32   (hex)		Nintendo Co., Ltd.
+54-44-08   (hex)		Nokia Corporation
+00-17-B0   (hex)		Nokia Danmark A/S
+00-1B-EE   (hex)		Nokia Danmark A/S
+18-86-AC   (hex)		Nokia Danmark A/S
+00-21-FE   (hex)		Nokia Danmark A/S
+00-22-66   (hex)		Nokia Danmark A/S
+C8-D1-0B   (hex)		Nokia Corporation
+C8-97-9F   (hex)		Nokia Corporation
+F4-F5-A5   (hex)		Nokia Corporation
+3C-C2-43   (hex)		Nokia Corporation
+00-15-A0   (hex)		Nokia Danmark A/S
+00-1A-16   (hex)		Nokia Danmark A/S
+00-22-FC   (hex)		Nokia Danmark A/S
+00-25-48   (hex)		Nokia Danmark A/S
+00-1D-FD   (hex)		Nokia Danmark A/S
+00-1E-A3   (hex)		Nokia Danmark A/S
+00-1D-98   (hex)		Nokia Danmark A/S
+00-11-9F   (hex)		Nokia Danmark A/S
+94-76-B7   (hex)		Samsung Electronics Co.,Ltd
+8C-1A-BF   (hex)		Samsung Electronics Co.,Ltd
+B4-74-43   (hex)		Samsung Electronics Co.,Ltd
+30-CB-F8   (hex)		Samsung Electronics Co.,Ltd
+18-21-95   (hex)		Samsung Electronics Co.,Ltd
+A8-81-95   (hex)		Samsung Electronics Co.,Ltd
+88-AD-D2   (hex)		Samsung Electronics Co.,Ltd
+9C-52-F8   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+90-03-25   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+DC-09-4C   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+DC-EE-06   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+58-60-5F   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+88-28-B3   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+C4-F0-81   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+80-13-82   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+D0-FC-CC   (hex)		Samsung Electronics Co.,Ltd
+14-C9-13   (hex)		LG Electronics
+AC-9B-0A   (hex)		Sony Corporation
+48-3C-0C   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+4C-66-41   (hex)		SAMSUNG ELECTRO-MECHANICS(THAILAND)
+00-13-15   (hex)		Sony Interactive Entertainment Inc.
+00-1F-A7   (hex)		Sony Interactive Entertainment Inc.
+A8-E3-EE   (hex)		Sony Interactive Entertainment Inc.
+70-9E-29   (hex)		Sony Interactive Entertainment Inc.
+FC-0F-E6   (hex)		Sony Interactive Entertainment Inc.
+3C-BD-D8   (hex)		LG ELECTRONICS INC
+48-88-CA   (hex)		Motorola (Wuhan) Mobility Technologies Communication Co., Ltd.
+C0-91-34   (hex)		ProCurve Networking by HP
+84-98-66   (hex)		Samsung Electronics Co.,Ltd
+E8-93-09   (hex)		Samsung Electronics Co.,Ltd
+2C-9D-1E   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+C8-8D-83   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+00-16-DB   (hex)		Samsung Electronics Co.,Ltd
+5C-3C-27   (hex)		Samsung Electronics Co.,Ltd
+10-D5-42   (hex)		Samsung Electronics Co.,Ltd
+A0-82-1F   (hex)		Samsung Electronics Co.,Ltd
+C4-50-06   (hex)		Samsung Electronics Co.,Ltd
+88-32-9B   (hex)		SAMSUNG ELECTRO-MECHANICS(THAILAND)
+BC-8C-CD   (hex)		SAMSUNG ELECTRO-MECHANICS(THAILAND)
+40-0E-85   (hex)		SAMSUNG ELECTRO-MECHANICS(THAILAND)
+EC-9B-F3   (hex)		SAMSUNG ELECTRO-MECHANICS(THAILAND)
+F8-04-2E   (hex)		SAMSUNG ELECTRO-MECHANICS(THAILAND)
+84-38-38   (hex)		SAMSUNG ELECTRO-MECHANICS(THAILAND)
+54-88-0E   (hex)		SAMSUNG ELECTRO-MECHANICS(THAILAND)
+BC-79-AD   (hex)		Samsung Electronics Co.,Ltd
+30-D6-C9   (hex)		Samsung Electronics Co.,Ltd
+B0-DF-3A   (hex)		Samsung Electronics Co.,Ltd
+80-57-19   (hex)		Samsung Electronics Co.,Ltd
+78-A8-73   (hex)		Samsung Electronics Co.,Ltd
+04-1B-BA   (hex)		Samsung Electronics Co.,Ltd
+08-FD-0E   (hex)		Samsung Electronics Co.,Ltd
+08-D4-2B   (hex)		Samsung Electronics Co.,Ltd
+00-E3-B2   (hex)		Samsung Electronics Co.,Ltd
+C8-14-79   (hex)		Samsung Electronics Co.,Ltd
+F0-72-8C   (hex)		Samsung Electronics Co.,Ltd
+94-35-0A   (hex)		Samsung Electronics Co.,Ltd
+00-1F-CD   (hex)		Samsung Electronics Co.,Ltd
+D0-DF-C7   (hex)		Samsung Electronics Co.,Ltd
+1C-62-B8   (hex)		Samsung Electronics Co.,Ltd
+18-E2-C2   (hex)		Samsung Electronics Co.,Ltd
+F0-43-47   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+9C-B2-B2   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+84-BE-52   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+00-1A-8A   (hex)		Samsung Electronics Co.,Ltd
+00-25-67   (hex)		Samsung Electronics Co.,Ltd
+A8-F2-74   (hex)		Samsung Electronics Co.,Ltd
+00-15-99   (hex)		Samsung Electronics Co.,Ltd
+00-12-FB   (hex)		Samsung Electronics Co.,Ltd
+7C-F8-54   (hex)		Samsung Electronics Co.,Ltd
+8C-C8-CD   (hex)		Samsung Electronics Co.,Ltd
+E8-11-32   (hex)		Samsung Electronics Co.,Ltd
+A0-21-95   (hex)		Samsung Electronics Co.,Ltd
+84-0B-2D   (hex)		SAMSUNG ELECTRO MECHANICS CO., LTD.
+00-02-78   (hex)		SAMSUNG ELECTRO MECHANICS CO., LTD.
+F0-7B-CB   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+4C-0F-6E   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+5C-6D-20   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+90-00-4E   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+C0-F8-DA   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+48-5A-B6   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+08-3E-8E   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+F4-B7-E2   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+44-37-E6   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+00-16-CF   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+00-1C-25   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+C4-8E-8F   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+18-4F-32   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+44-1C-A8   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+A8-47-4A   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+08-ED-B9   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+7C-E9-D3   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+E4-D5-3D   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+C4-17-FE   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+38-B1-DB   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+00-23-4D   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+00-23-4E   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+00-26-5E   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+54-13-79   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+10-08-B1   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+8C-71-F8   (hex)		Samsung Electronics Co.,Ltd
+04-18-0F   (hex)		Samsung Electronics Co.,Ltd
+94-63-D1   (hex)		Samsung Electronics Co.,Ltd
+0C-DF-A4   (hex)		Samsung Electronics Co.,Ltd
+CC-05-1B   (hex)		Samsung Electronics Co.,Ltd
+68-EB-AE   (hex)		Samsung Electronics Co.,Ltd
+60-D0-A9   (hex)		Samsung Electronics Co.,Ltd
+60-A1-0A   (hex)		Samsung Electronics Co.,Ltd
+A0-75-91   (hex)		Samsung Electronics Co.,Ltd
+00-1F-CC   (hex)		Samsung Electronics Co.,Ltd
+F0-98-38   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+18-DE-D7   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+EC-10-7B   (hex)		Samsung Electronics Co.,Ltd
+A0-10-81   (hex)		Samsung Electronics Co.,Ltd
+F4-F5-24   (hex)		Motorola Mobility LLC, a Lenovo Company
+2C-6F-C9   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+C8-0C-C8   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+04-25-C5   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+54-FA-96   (hex)		Nokia
+08-9E-08   (hex)		Google, Inc.
+04-5D-4B   (hex)		Sony Corporation
+DC-C6-4B   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+04-33-89   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+A0-A3-3B   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+90-06-28   (hex)		Samsung Electronics Co.,Ltd
+D4-AE-05   (hex)		Samsung Electronics Co.,Ltd
+3C-05-18   (hex)		Samsung Electronics Co.,Ltd
+A0-08-6F   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+C4-FF-1F   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+D0-F8-8C   (hex)		Motorola (Wuhan) Mobility Technologies Communication Co., Ltd.
+78-AB-BB   (hex)		Samsung Electronics Co.,Ltd
+18-16-C9   (hex)		Samsung Electronics Co.,Ltd
+FC-8F-90   (hex)		Samsung Electronics Co.,Ltd
+24-4B-03   (hex)		Samsung Electronics Co.,Ltd
+98-83-89   (hex)		Samsung Electronics Co.,Ltd
+14-BB-6E   (hex)		Samsung Electronics Co.,Ltd
+1C-3A-DE   (hex)		Samsung Electronics Co.,Ltd
+F8-3F-51   (hex)		Samsung Electronics Co.,Ltd
+D8-E0-E1   (hex)		Samsung Electronics Co.,Ltd
+50-92-B9   (hex)		Samsung Electronics Co.,Ltd
+B4-BF-F6   (hex)		Samsung Electronics Co.,Ltd
+C8-D7-B0   (hex)		Samsung Electronics Co.,Ltd
+5C-03-39   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+04-4F-4C   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+1C-15-1F   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+5C-09-79   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+00-2E-C7   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+48-8E-EF   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+64-B5-C6   (hex)		Nintendo Co.,Ltd
+98-2D-68   (hex)		Samsung Electronics Co., Ltd
+2C-D2-E7   (hex)		Nokia Corporation
+00-15-2A   (hex)		Nokia Corporation
+5C-EA-1D   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+20-54-FA   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+98-9C-57   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+E4-A7-C5   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+10-44-00   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+48-D6-D5   (hex)		Google, Inc.
+D8-08-31   (hex)		Samsung Electronics Co.,Ltd
+28-C1-3C   (hex)		Hon Hai Precision Ind. Co., Ltd.
+2C-54-CF   (hex)		LG Electronics (Mobile Communications)
+00-1F-E3   (hex)		LG Electronics (Mobile Communications)
+00-26-E2   (hex)		LG Electronics (Mobile Communications)
+00-1E-75   (hex)		LG Electronics (Mobile Communications)
+6C-D6-8A   (hex)		LG Electronics (Mobile Communications)
+20-21-A5   (hex)		LG Electronics (Mobile Communications)
+0C-48-85   (hex)		LG Electronics (Mobile Communications)
+DC-0B-34   (hex)		LG Electronics (Mobile Communications)
+AC-0D-1B   (hex)		LG Electronics (Mobile Communications)
+60-E3-AC   (hex)		LG Electronics (Mobile Communications)
+F8-95-C7   (hex)		LG Electronics (Mobile Communications)
+C4-43-8F   (hex)		LG Electronics (Mobile Communications)
+A8-16-B2   (hex)		LG Electronics (Mobile Communications)
+E8-92-A4   (hex)		LG Electronics (Mobile Communications)
+70-05-14   (hex)		LG Electronics (Mobile Communications)
+88-C9-D0   (hex)		LG Electronics (Mobile Communications)
+2C-59-8A   (hex)		LG Electronics (Mobile Communications)
+DC-A2-66   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+D8-9C-67   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+80-2B-F9   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+4C-DD-31   (hex)		Samsung Electronics Co.,Ltd
+80-41-26   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+0C-C6-CC   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+70-5A-AC   (hex)		Samsung Electronics Co.,Ltd
+FC-64-3A   (hex)		Samsung Electronics Co.,Ltd
+D4-E6-B7   (hex)		Samsung Electronics Co.,Ltd
+28-02-D8   (hex)		Samsung Electronics Co.,Ltd
+88-B3-62   (hex)		Nokia Shanghai Bell Co. Ltd.）
+1C-A0-B8   (hex)		Hon Hai Precision Ind. Co., Ltd.
+90-94-97   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+EC-89-14   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+DC-72-9B   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+B8-94-36   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+A4-38-CC   (hex)		Nintendo Co.,Ltd
+0C-2C-54   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+00-BE-3B   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+7C-76-68   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+24-2E-02   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+48-60-5F   (hex)		LG Electronics (Mobile Communications)
+60-DE-F3   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+58-F9-87   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+50-1D-93   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+F0-76-6F   (hex)		Apple, Inc.
+40-CB-C0   (hex)		Apple, Inc.
+40-98-AD   (hex)		Apple, Inc.
+6C-4D-73   (hex)		Apple, Inc.
+C4-84-66   (hex)		Apple, Inc.
+B8-63-4D   (hex)		Apple, Inc.
+50-32-37   (hex)		Apple, Inc.
+D4-61-9D   (hex)		Apple, Inc.
+B0-48-1A   (hex)		Apple, Inc.
+98-9E-63   (hex)		Apple, Inc.
+DC-A9-04   (hex)		Apple, Inc.
+48-A1-95   (hex)		Apple, Inc.
+6C-AB-31   (hex)		Apple, Inc.
+7C-50-49   (hex)		Apple, Inc.
+E4-2B-34   (hex)		Apple, Inc.
+1C-36-BB   (hex)		Apple, Inc.
+3C-2E-FF   (hex)		Apple, Inc.
+6C-96-CF   (hex)		Apple, Inc.
+30-35-AD   (hex)		Apple, Inc.
+A8-BE-27   (hex)		Apple, Inc.
+70-A2-B3   (hex)		Apple, Inc.
+4C-57-CA   (hex)		Apple, Inc.
+68-FB-7E   (hex)		Apple, Inc.
+90-C1-C6   (hex)		Apple, Inc.
+A4-F1-E8   (hex)		Apple, Inc.
+AC-61-EA   (hex)		Apple, Inc.
+38-B5-4D   (hex)		Apple, Inc.
+00-CD-FE   (hex)		Apple, Inc.
+18-AF-61   (hex)		Apple, Inc.
+CC-44-63   (hex)		Apple, Inc.
+34-15-9E   (hex)		Apple, Inc.
+58-B0-35   (hex)		Apple, Inc.
+F0-B4-79   (hex)		Apple, Inc.
+10-9A-DD   (hex)		Apple, Inc.
+40-A6-D9   (hex)		Apple, Inc.
+7C-F0-5F   (hex)		Apple, Inc.
+A4-B1-97   (hex)		Apple, Inc.
+0C-74-C2   (hex)		Apple, Inc.
+40-30-04   (hex)		Apple, Inc.
+48-60-BC   (hex)		Apple, Inc.
+D0-2B-20   (hex)		Apple, Inc.
+9C-E3-3F   (hex)		Apple, Inc.
+F0-98-9D   (hex)		Apple, Inc.
+AC-E4-B5   (hex)		Apple, Inc.
+6C-72-E7   (hex)		Apple, Inc.
+60-FE-C5   (hex)		Apple, Inc.
+00-A0-40   (hex)		Apple, Inc.
+00-0D-93   (hex)		Apple, Inc.
+AC-BC-32   (hex)		Apple, Inc.
+30-D9-D9   (hex)		Apple, Inc.
+60-30-D4   (hex)		Apple, Inc.
+94-BF-2D   (hex)		Apple, Inc.
+C4-98-80   (hex)		Apple, Inc.
+E0-33-8E   (hex)		Apple, Inc.
+68-FE-F7   (hex)		Apple, Inc.
+BC-E1-43   (hex)		Apple, Inc.
+64-5A-ED   (hex)		Apple, Inc.
+C0-B6-58   (hex)		Apple, Inc.
+88-19-08   (hex)		Apple, Inc.
+FC-2A-9C   (hex)		Apple, Inc.
+44-D8-84   (hex)		Apple, Inc.
+EC-85-2F   (hex)		Apple, Inc.
+28-6A-BA   (hex)		Apple, Inc.
+70-56-81   (hex)		Apple, Inc.
+7C-D1-C3   (hex)		Apple, Inc.
+F0-DC-E2   (hex)		Apple, Inc.
+B0-65-BD   (hex)		Apple, Inc.
+A8-20-66   (hex)		Apple, Inc.
+BC-67-78   (hex)		Apple, Inc.
+68-96-7B   (hex)		Apple, Inc.
+84-85-06   (hex)		Apple, Inc.
+54-AE-27   (hex)		Apple, Inc.
+64-76-BA   (hex)		Apple, Inc.
+84-B1-53   (hex)		Apple, Inc.
+78-3A-84   (hex)		Apple, Inc.
+2C-BE-08   (hex)		Apple, Inc.
+24-E3-14   (hex)		Apple, Inc.
+68-D9-3C   (hex)		Apple, Inc.
+2C-F0-EE   (hex)		Apple, Inc.
+84-78-8B   (hex)		Apple, Inc.
+6C-94-F8   (hex)		Apple, Inc.
+70-3E-AC   (hex)		Apple, Inc.
+B4-F0-AB   (hex)		Apple, Inc.
+10-DD-B1   (hex)		Apple, Inc.
+04-F7-E4   (hex)		Apple, Inc.
+34-C0-59   (hex)		Apple, Inc.
+F0-D1-A9   (hex)		Apple, Inc.
+BC-3B-AF   (hex)		Apple, Inc.
+78-6C-1C   (hex)		Apple, Inc.
+04-15-52   (hex)		Apple, Inc.
+38-48-4C   (hex)		Apple, Inc.
+70-11-24   (hex)		Apple, Inc.
+C8-6F-1D   (hex)		Apple, Inc.
+68-5B-35   (hex)		Apple, Inc.
+38-0F-4A   (hex)		Apple, Inc.
+30-10-E4   (hex)		Apple, Inc.
+04-DB-56   (hex)		Apple, Inc.
+88-1F-A1   (hex)		Apple, Inc.
+04-E5-36   (hex)		Apple, Inc.
+F8-27-93   (hex)		Apple, Inc.
+AC-FD-EC   (hex)		Apple, Inc.
+D0-E1-40   (hex)		Apple, Inc.
+8C-7C-92   (hex)		Apple, Inc.
+78-31-C1   (hex)		Apple, Inc.
+F4-37-B7   (hex)		Apple, Inc.
+50-EA-D6   (hex)		Apple, Inc.
+28-E0-2C   (hex)		Apple, Inc.
+60-C5-47   (hex)		Apple, Inc.
+7C-11-BE   (hex)		Apple, Inc.
+00-3E-E1   (hex)		Apple, Inc.
+C0-1A-DA   (hex)		Apple, Inc.
+34-36-3B   (hex)		Apple, Inc.
+C8-1E-E7   (hex)		Apple, Inc.
+9C-FC-01   (hex)		Apple, Inc.
+CC-C7-60   (hex)		Apple, Inc.
+08-74-02   (hex)		Apple, Inc.
+28-5A-EB   (hex)		Apple, Inc.
+28-F0-76   (hex)		Apple, Inc.
+70-70-0D   (hex)		Apple, Inc.
+9C-F4-8E   (hex)		Apple, Inc.
+FC-D8-48   (hex)		Apple, Inc.
+00-1C-B3   (hex)		Apple, Inc.
+64-B9-E8   (hex)		Apple, Inc.
+B0-EB-57   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+8C-15-C7   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+A4-BE-2B   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+60-FA-9D   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+DC-99-14   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+2C-97-B1   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+30-39-26   (hex)		Sony Mobile Communications Inc
+20-54-76   (hex)		Sony Mobile Communications Inc
+B8-F9-34   (hex)		Sony Mobile Communications Inc
+58-17-0C   (hex)		Sony Mobile Communications Inc
+6C-23-B9   (hex)		Sony Mobile Communications Inc
+24-21-AB   (hex)		Sony Mobile Communications Inc
+00-18-13   (hex)		Sony Mobile Communications Inc
+A0-E4-53   (hex)		Sony Mobile Communications Inc
+BC-6E-64   (hex)		Sony Mobile Communications Inc
+00-EB-2D   (hex)		Sony Mobile Communications Inc
+1C-7B-21   (hex)		Sony Mobile Communications Inc
+10-8E-E0   (hex)		Samsung Electronics Co.,Ltd
+68-E7-C2   (hex)		Samsung Electronics Co.,Ltd
+3C-57-6C   (hex)		Samsung Electronics Co.,Ltd
+0C-E0-DC   (hex)		Samsung Electronics Co.,Ltd
+00-1E-45   (hex)		Sony Mobile Communications Inc
+00-21-9E   (hex)		Sony Mobile Communications Inc
+28-3F-69   (hex)		Sony Mobile Communications Inc
+C4-B8-B4   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+70-2A-D5   (hex)		Samsung Electronics Co.,Ltd
+8C-B0-E9   (hex)		Samsung Electronics.,LTD
+14-D1-69   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+BC-E2-65   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+D0-16-B4   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+88-9F-6F   (hex)		Samsung Electronics Co.,Ltd
+0C-B5-27   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+4C-56-9D   (hex)		Apple, Inc.
+14-C2-13   (hex)		Apple, Inc.
+38-53-9C   (hex)		Apple, Inc.
+58-E6-BA   (hex)		Apple, Inc.
+CC-BB-FE   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+20-28-3E   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+3C-01-EF   (hex)		Sony Mobile Communications Inc
+90-63-3B   (hex)		Samsung Electronics Co.,Ltd
+78-23-27   (hex)		Samsung Electronics Co.,Ltd
+F8-A4-5F   (hex)		Xiaomi Communications Co Ltd
+8C-BE-BE   (hex)		Xiaomi Communications Co Ltd
+64-09-80   (hex)		Xiaomi Communications Co Ltd
+98-FA-E3   (hex)		Xiaomi Communications Co Ltd
+18-59-36   (hex)		Xiaomi Communications Co Ltd
+9C-99-A0   (hex)		Xiaomi Communications Co Ltd
+C4-0B-CB   (hex)		Xiaomi Communications Co Ltd
+EC-D0-9F   (hex)		Xiaomi Communications Co Ltd
+F4-F5-DB   (hex)		Xiaomi Communications Co Ltd
+E4-46-DA   (hex)		Xiaomi Communications Co Ltd
+18-F0-E4   (hex)		Xiaomi Communications Co Ltd
+9C-2E-A1   (hex)		Xiaomi Communications Co Ltd
+50-A0-09   (hex)		Xiaomi Communications Co Ltd
+20-A6-0C   (hex)		Xiaomi Communications Co Ltd
+D8-A0-1D   (hex)		Espressif Inc.
+EC-FA-BC   (hex)		Espressif Inc.
+B4-E6-2D   (hex)		Espressif Inc.
+80-7D-3A   (hex)		Espressif Inc.
+3C-71-BF   (hex)		Espressif Inc.
+54-5A-A6   (hex)		Espressif Inc.
+24-0A-C4   (hex)		Espressif Inc.
+F8-E9-4E   (hex)		Apple, Inc.
+F4-06-16   (hex)		Apple, Inc.
+BC-B8-63   (hex)		Apple, Inc.
+88-F5-6E   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+D8-9B-3B   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+2C-2B-F9   (hex)		LG Innotek
+98-B0-39   (hex)		Nokia
+84-26-2B   (hex)		Nokia
+94-E9-8C   (hex)		Nokia
+E4-81-84   (hex)		Nokia
+BC-8D-0E   (hex)		Nokia
+B0-75-4D   (hex)		Nokia
+BC-6B-4D   (hex)		Nokia
+A4-7B-2C   (hex)		Nokia
+8C-F7-73   (hex)		Nokia
+04-C2-41   (hex)		Nokia
+94-B8-19   (hex)		Nokia
+00-D0-F6   (hex)		Nokia
+48-F8-E1   (hex)		Nokia
+50-E0-EF   (hex)		Nokia
+8C-5A-F8   (hex)		Beijing Xiaomi Electronics Co., Ltd.
+C0-8C-71   (hex)		Motorola Mobility LLC, a Lenovo Company
+54-60-09   (hex)		Google, Inc.
+A4-77-33   (hex)		Google, Inc.
+94-EB-2C   (hex)		Google, Inc.
+A8-CA-7B   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+AC-CF-85   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+18-87-96   (hex)		HTC Corporation
+00-23-76   (hex)		HTC Corporation
+EC-4D-47   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+88-CF-98   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+D8-49-0B   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+88-86-03   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+F8-E8-11   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+E0-97-96   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+CC-CC-81   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+10-1B-54   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+70-54-F5   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+D0-7A-B5   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+C4-05-28   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+3C-DF-BD   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+14-B9-68   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+80-71-7A   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+F4-9F-F3   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+84-DB-AC   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+C0-70-09   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+E0-19-1D   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+B8-BC-1B   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+24-1F-A0   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+50-A7-2B   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+C8-51-95   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+00-F8-1C   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+F4-55-9C   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+28-3C-E4   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+08-E8-4F   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+04-BD-70   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+18-C5-8A   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+04-C0-6F   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+5C-4C-A9   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+4C-54-99   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+00-25-9E   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+00-18-82   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+84-10-0D   (hex)		Motorola Mobility LLC, a Lenovo Company
+D4-94-E8   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+04-C2-3E   (hex)		HTC Corporation
+5C-51-88   (hex)		Motorola Mobility LLC, a Lenovo Company
+44-55-B1   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+30-F3-35   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+E8-91-20   (hex)		Motorola Mobility LLC, a Lenovo Company
+3C-18-9F   (hex)		Nokia Corporation
+DC-F1-10   (hex)		Nokia Corporation
+CC-89-FD   (hex)		Nokia Corporation
+DC-C7-93   (hex)		Nokia Corporation
+00-EE-BD   (hex)		HTC Corporation
+B0-98-9F   (hex)		LG CNS
+A4-77-60   (hex)		Nokia Corporation
+DC-9F-A4   (hex)		Nokia Corporation
+34-C8-03   (hex)		Nokia Corporation
+54-53-ED   (hex)		Sony Corporation
+94-00-70   (hex)		Nokia Corporation
+50-2D-1D   (hex)		Nokia Corporation
+94-44-44   (hex)		LG Innotek
+28-D1-AF   (hex)		Nokia Corporation
+6C-A7-80   (hex)		Nokia Corporation
+F0-BF-97   (hex)		Sony Corporation
+78-CA-04   (hex)		Nokia Corporation
+A0-71-A9   (hex)		Nokia Corporation
+20-D6-07   (hex)		Nokia Corporation
+B4-0E-DC   (hex)		LG-Ericsson Co.,Ltd.
+E8-5B-5B   (hex)		LG ELECTRONICS INC
+00-0E-C7   (hex)		Motorola Korea
+00-10-B3   (hex)		NOKIA MULTIMEDIA TERMINALS
+00-E0-0C   (hex)		MOTOROLA
+00-20-75   (hex)		MOTOROLA COMMUNICATION ISRAEL
+E0-98-61   (hex)		Motorola Mobility LLC, a Lenovo Company
+F4-F1-E1   (hex)		Motorola Mobility LLC, a Lenovo Company
+60-BE-B5   (hex)		Motorola Mobility LLC, a Lenovo Company
+00-1A-80   (hex)		Sony Corporation
+00-24-BE   (hex)		Sony Corporation
+74-5A-AA   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+7C-1C-F1   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+74-A5-28   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+F0-5A-09   (hex)		Samsung Electronics Co.,Ltd
+50-32-75   (hex)		Samsung Electronics Co.,Ltd
+28-CC-01   (hex)		Samsung Electronics Co.,Ltd
+B4-62-93   (hex)		Samsung Electronics Co.,Ltd
+04-FE-31   (hex)		Samsung Electronics Co.,Ltd
+84-51-81   (hex)		Samsung Electronics Co.,Ltd
+D8-31-CF   (hex)		Samsung Electronics Co.,Ltd
+F8-D0-BD   (hex)		Samsung Electronics Co.,Ltd
+FC-C7-34   (hex)		Samsung Electronics Co.,Ltd
+E4-B0-21   (hex)		Samsung Electronics Co.,Ltd
+B0-EC-71   (hex)		Samsung Electronics Co.,Ltd
+3C-BB-FD   (hex)		Samsung Electronics Co.,Ltd
+2C-AE-2B   (hex)		Samsung Electronics Co.,Ltd
+C4-88-E5   (hex)		Samsung Electronics Co.,Ltd
+7C-91-22   (hex)		Samsung Electronics Co.,Ltd
+E8-B4-C8   (hex)		Samsung Electronics Co.,Ltd
+18-89-5B   (hex)		Samsung Electronics Co.,Ltd
+E0-DB-10   (hex)		Samsung Electronics Co.,Ltd
+E0-99-71   (hex)		Samsung Electronics Co.,Ltd
+60-77-E2   (hex)		Samsung Electronics Co.,Ltd
+68-05-71   (hex)		Samsung Electronics Co.,Ltd
+6C-2F-2C   (hex)		Samsung Electronics Co.,Ltd
+00-21-47   (hex)		Nintendo Co., Ltd.
+00-22-AA   (hex)		Nintendo Co., Ltd.
+00-22-D7   (hex)		Nintendo Co., Ltd.
+00-23-31   (hex)		Nintendo Co., Ltd.
+00-24-1E   (hex)		Nintendo Co., Ltd.
+78-A2-A0   (hex)		Nintendo Co., Ltd.
+00-1B-7A   (hex)		Nintendo Co., Ltd.
+40-F4-07   (hex)		Nintendo Co., Ltd.
+B8-AE-6E   (hex)		Nintendo Co., Ltd.
+60-A8-FE   (hex)		Nokia
+00-18-C5   (hex)		Nokia Danmark A/S
+80-50-1B   (hex)		Nokia Corporation
+34-7E-39   (hex)		Nokia Danmark A/S
+A8-7E-33   (hex)		Nokia Danmark A/S
+00-24-7D   (hex)		Nokia Danmark A/S
+00-1B-AF   (hex)		Nokia Danmark A/S
+00-1C-35   (hex)		Nokia Danmark A/S
+00-1C-D4   (hex)		Nokia Danmark A/S
+00-19-79   (hex)		Nokia Danmark A/S
+9C-18-74   (hex)		Nokia Danmark A/S
+00-21-FC   (hex)		Nokia Danmark A/S
+00-1F-5D   (hex)		Nokia Danmark A/S
+00-25-CF   (hex)		Nokia Danmark A/S
+00-25-D0   (hex)		Nokia Danmark A/S
+00-1F-DE   (hex)		Nokia Danmark A/S
+9C-2A-83   (hex)		Samsung Electronics Co.,Ltd
+E4-5D-75   (hex)		Samsung Electronics Co.,Ltd
+E4-FA-ED   (hex)		Samsung Electronics Co.,Ltd
+94-DB-DA   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+38-4C-4F   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+E4-A8-B6   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+24-4C-07   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+94-FE-22   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+F8-23-B2   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+DC-D9-16   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+08-C0-21   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+48-43-5A   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+9C-E3-74   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+54-F2-01   (hex)		Samsung Electronics Co.,Ltd
+A0-60-90   (hex)		Samsung Electronics Co.,Ltd
+AC-37-43   (hex)		HTC Corporation
+00-16-B9   (hex)		ProCurve Networking by HP
+00-24-A8   (hex)		ProCurve Networking by HP
+14-1F-78   (hex)		Samsung Electronics Co.,Ltd
+00-6F-64   (hex)		Samsung Electronics Co.,Ltd
+DC-66-72   (hex)		Samsung Electronics Co.,Ltd
+04-9F-CA   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+C8-1F-BE   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+20-3D-B2   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+48-D5-39   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+00-1E-7D   (hex)		Samsung Electronics Co.,Ltd
+3C-62-00   (hex)		Samsung Electronics Co.,Ltd
+00-24-E9   (hex)		Samsung Electronics Co.,Ltd
+00-23-99   (hex)		Samsung Electronics Co.,Ltd
+E4-E0-C5   (hex)		Samsung Electronics Co.,Ltd
+E8-03-9A   (hex)		Samsung Electronics Co.,Ltd
+C4-73-1E   (hex)		Samsung Electronics Co.,Ltd
+78-D6-F0   (hex)		SAMSUNG ELECTRO MECHANICS CO., LTD.
+B4-07-F9   (hex)		SAMSUNG ELECTRO MECHANICS CO., LTD.
+40-B8-9A   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+A8-A7-95   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+80-96-CA   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+9C-D2-1E   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+D8-79-88   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+00-24-2B   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+00-24-2C   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+94-53-30   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+EC-0E-C4   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+74-29-AF   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+34-68-95   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+A8-6B-AD   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+D8-0F-99   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+78-DD-08   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+00-19-7E   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+8C-77-12   (hex)		Samsung Electronics Co.,Ltd
+20-13-E0   (hex)		Samsung Electronics Co.,Ltd
+00-07-AB   (hex)		Samsung Electronics Co.,Ltd
+00-21-D2   (hex)		Samsung Electronics Co.,Ltd
+BC-47-60   (hex)		Samsung Electronics Co.,Ltd
+D0-17-6A   (hex)		Samsung Electronics Co.,Ltd
+2C-BA-BA   (hex)		Samsung Electronics Co.,Ltd
+24-92-0E   (hex)		Samsung Electronics Co.,Ltd
+40-D3-AE   (hex)		Samsung Electronics Co.,Ltd
+14-A5-1A   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+F8-46-1C   (hex)		Sony Interactive Entertainment Inc.
+98-D2-93   (hex)		Google, Inc.
+10-4F-A8   (hex)		Sony Corporation
+B0-89-00   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+BC-60-A7   (hex)		Sony Interactive Entertainment Inc.
+24-DB-ED   (hex)		Samsung Electronics Co.,Ltd
+AC-36-13   (hex)		Samsung Electronics Co.,Ltd
+14-49-E0   (hex)		SAMSUNG ELECTRO-MECHANICS(THAILAND)
+C0-BD-D1   (hex)		SAMSUNG ELECTRO-MECHANICS(THAILAND)
+E8-50-8B   (hex)		SAMSUNG ELECTRO-MECHANICS(THAILAND)
+F0-25-B7   (hex)		SAMSUNG ELECTRO-MECHANICS(THAILAND)
+C8-BA-94   (hex)		SAMSUNG ELECTRO-MECHANICS(THAILAND)
+EC-1F-72   (hex)		SAMSUNG ELECTRO-MECHANICS(THAILAND)
+98-52-B1   (hex)		Samsung Electronics Co.,Ltd
+14-89-FD   (hex)		Samsung Electronics Co.,Ltd
+CC-FE-3C   (hex)		Samsung Electronics Co.,Ltd
+78-9E-D0   (hex)		Samsung Electronics Co.,Ltd
+E4-40-E2   (hex)		Samsung Electronics Co.,Ltd
+1C-AF-05   (hex)		Samsung Electronics Co.,Ltd
+E4-92-FB   (hex)		Samsung Electronics Co.,Ltd
+00-73-E0   (hex)		Samsung Electronics Co.,Ltd
+BC-44-86   (hex)		Samsung Electronics Co.,Ltd
+38-0B-40   (hex)		Samsung Electronics Co.,Ltd
+8C-0D-76   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+00-5A-13   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+00-24-90   (hex)		Samsung Electronics Co.,Ltd
+00-23-D7   (hex)		Samsung Electronics Co.,Ltd
+FC-A1-3E   (hex)		Samsung Electronics Co.,Ltd
+A0-07-98   (hex)		Samsung Electronics Co.,Ltd
+94-51-03   (hex)		Samsung Electronics Co.,Ltd
+C8-19-F7   (hex)		Samsung Electronics Co.,Ltd
+2C-44-01   (hex)		Samsung Electronics Co.,Ltd
+80-56-F2   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+70-18-8B   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+3C-77-E6   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+0C-84-DC   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+84-4B-F5   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+E0-06-E6   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+60-F4-94   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+A4-17-31   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+C0-14-3D   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+64-27-37   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+60-D8-19   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+C0-CB-38   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+A4-C6-4F   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+48-7B-6B   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+80-D4-A5   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+38-BC-01   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+04-B0-E7   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+44-6A-2E   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+A0-6F-AA   (hex)		LG Innotek
+88-75-98   (hex)		Samsung Electronics Co.,Ltd
+D0-B1-28   (hex)		Samsung Electronics Co.,Ltd
+DC-68-EB   (hex)		Nintendo Co.,Ltd
+D0-04-01   (hex)		Motorola Mobility LLC, a Lenovo Company
+10-68-3F   (hex)		LG Electronics (Mobile Communications)
+74-A7-22   (hex)		LG Electronics (Mobile Communications)
+58-A2-B5   (hex)		LG Electronics (Mobile Communications)
+64-89-9A   (hex)		LG Electronics (Mobile Communications)
+88-07-4B   (hex)		LG Electronics (Mobile Communications)
+64-BC-0C   (hex)		LG Electronics (Mobile Communications)
+A0-39-F7   (hex)		LG Electronics (Mobile Communications)
+04-1B-6D   (hex)		LG Electronics (Mobile Communications)
+00-1F-6B   (hex)		LG Electronics (Mobile Communications)
+30-B4-B8   (hex)		LG Electronics
+2C-FD-AB   (hex)		Motorola (Wuhan) Mobility Technologies Communication Co., Ltd.
+54-FC-F0   (hex)		Samsung Electronics Co.,Ltd
+08-AE-D6   (hex)		Samsung Electronics Co.,Ltd
+A8-16-D0   (hex)		Samsung Electronics Co.,Ltd
+88-BD-45   (hex)		Samsung Electronics Co.,Ltd
+88-3D-24   (hex)		Google, Inc.
+64-1C-B0   (hex)		Samsung Electronics Co.,Ltd
+3C-DC-BC   (hex)		Samsung Electronics Co.,Ltd
+F4-71-90   (hex)		Samsung Electronics Co.,Ltd
+04-79-70   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+C4-9F-4C   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+A0-57-E3   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+30-FD-38   (hex)		Google, Inc.
+8C-F5-A3   (hex)		SAMSUNG ELECTRO-MECHANICS(THAILAND)
+70-3A-CB   (hex)		Google, Inc.
+2C-55-D3   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+F4-4C-7F   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+14-30-04   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+7C-46-85   (hex)		Motorola (Wuhan) Mobility Technologies Communication Co., Ltd.
+14-56-8E   (hex)		Samsung Electronics Co.,Ltd
+80-58-F8   (hex)		Motorola Mobility LLC, a Lenovo Company
+F0-D7-AA   (hex)		Motorola Mobility LLC, a Lenovo Company
+14-A0-F8   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+28-B4-48   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+24-F5-AA   (hex)		Samsung Electronics Co.,Ltd
+F8-77-B8   (hex)		Samsung Electronics Co.,Ltd
+68-27-37   (hex)		Samsung Electronics Co.,Ltd
+50-56-BF   (hex)		Samsung Electronics Co.,Ltd
+90-97-F3   (hex)		Samsung Electronics Co.,Ltd
+58-C5-CB   (hex)		Samsung Electronics Co.,Ltd
+AC-AF-B9   (hex)		Samsung Electronics Co.,Ltd
+30-07-4D   (hex)		SAMSUNG ELECTRO-MECHANICS(THAILAND)
+5C-51-81   (hex)		Samsung Electronics Co.,Ltd
+38-9A-F6   (hex)		Samsung Electronics Co.,Ltd
+E0-AA-96   (hex)		Samsung Electronics Co.,Ltd
+50-77-05   (hex)		Samsung Electronics Co.,Ltd
+B0-55-08   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+2C-40-53   (hex)		Samsung Electronics Co.,Ltd
+E4-72-E2   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+E8-68-19   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+60-2E-20   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+90-32-4B   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+6C-B7-49   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+08-15-2F   (hex)		Samsung Electronics Co., Ltd. ARTIK
+B4-CD-27   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+3C-CD-5D   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+78-F9-B4   (hex)		Nokia
+58-BA-D4   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+B8-C1-11   (hex)		Apple, Inc.
+34-08-BC   (hex)		Apple, Inc.
+84-41-67   (hex)		Apple, Inc.
+B4-F6-1C   (hex)		Apple, Inc.
+68-AB-1E   (hex)		Apple, Inc.
+2C-61-F6   (hex)		Apple, Inc.
+E4-9A-DC   (hex)		Apple, Inc.
+D0-81-7A   (hex)		Apple, Inc.
+C4-61-8B   (hex)		Apple, Inc.
+34-51-C9   (hex)		Apple, Inc.
+E0-B9-BA   (hex)		Apple, Inc.
+D0-23-DB   (hex)		Apple, Inc.
+B8-8D-12   (hex)		Apple, Inc.
+B8-17-C2   (hex)		Apple, Inc.
+68-A8-6D   (hex)		Apple, Inc.
+78-A3-E4   (hex)		Apple, Inc.
+68-09-27   (hex)		Apple, Inc.
+60-FA-CD   (hex)		Apple, Inc.
+1C-AB-A7   (hex)		Apple, Inc.
+78-4F-43   (hex)		Apple, Inc.
+40-4D-7F   (hex)		Apple, Inc.
+7C-04-D0   (hex)		Apple, Inc.
+BC-9F-EF   (hex)		Apple, Inc.
+88-66-A5   (hex)		Apple, Inc.
+88-E8-7F   (hex)		Apple, Inc.
+B8-53-AC   (hex)		Apple, Inc.
+2C-33-61   (hex)		Apple, Inc.
+A8-60-B6   (hex)		Apple, Inc.
+24-F0-94   (hex)		Apple, Inc.
+90-B0-ED   (hex)		Apple, Inc.
+C4-B3-01   (hex)		Apple, Inc.
+E0-5F-45   (hex)		Apple, Inc.
+48-3B-38   (hex)		Apple, Inc.
+E0-C7-67   (hex)		Apple, Inc.
+1C-9E-46   (hex)		Apple, Inc.
+0C-D7-46   (hex)		Apple, Inc.
+44-00-10   (hex)		Apple, Inc.
+E4-98-D6   (hex)		Apple, Inc.
+60-69-44   (hex)		Apple, Inc.
+04-52-F3   (hex)		Apple, Inc.
+24-1E-EB   (hex)		Apple, Inc.
+F4-31-C3   (hex)		Apple, Inc.
+64-A5-C3   (hex)		Apple, Inc.
+BC-92-6B   (hex)		Apple, Inc.
+00-50-E4   (hex)		Apple, Inc.
+00-30-65   (hex)		Apple, Inc.
+00-0A-27   (hex)		Apple, Inc.
+00-14-51   (hex)		Apple, Inc.
+8C-7B-9D   (hex)		Apple, Inc.
+88-C6-63   (hex)		Apple, Inc.
+C8-2A-14   (hex)		Apple, Inc.
+98-03-D8   (hex)		Apple, Inc.
+8C-58-77   (hex)		Apple, Inc.
+00-19-E3   (hex)		Apple, Inc.
+00-23-12   (hex)		Apple, Inc.
+00-23-32   (hex)		Apple, Inc.
+00-24-36   (hex)		Apple, Inc.
+00-25-4B   (hex)		Apple, Inc.
+00-26-BB   (hex)		Apple, Inc.
+70-F0-87   (hex)		Apple, Inc.
+88-6B-6E   (hex)		Apple, Inc.
+4C-74-BF   (hex)		Apple, Inc.
+E8-06-88   (hex)		Apple, Inc.
+CC-08-E0   (hex)		Apple, Inc.
+58-55-CA   (hex)		Apple, Inc.
+5C-09-47   (hex)		Apple, Inc.
+38-89-2C   (hex)		Apple, Inc.
+40-83-1D   (hex)		Apple, Inc.
+50-BC-96   (hex)		Apple, Inc.
+98-5A-EB   (hex)		Apple, Inc.
+20-78-F0   (hex)		Apple, Inc.
+78-D7-5F   (hex)		Apple, Inc.
+E0-AC-CB   (hex)		Apple, Inc.
+98-E0-D9   (hex)		Apple, Inc.
+C0-CE-CD   (hex)		Apple, Inc.
+70-E7-2C   (hex)		Apple, Inc.
+D0-33-11   (hex)		Apple, Inc.
+5C-AD-CF   (hex)		Apple, Inc.
+00-6D-52   (hex)		Apple, Inc.
+48-43-7C   (hex)		Apple, Inc.
+34-A3-95   (hex)		Apple, Inc.
+9C-F3-87   (hex)		Apple, Inc.
+A8-5B-78   (hex)		Apple, Inc.
+90-8D-6C   (hex)		Apple, Inc.
+0C-15-39   (hex)		Apple, Inc.
+BC-4C-C4   (hex)		Apple, Inc.
+0C-BC-9F   (hex)		Apple, Inc.
+A4-5E-60   (hex)		Apple, Inc.
+54-4E-90   (hex)		Apple, Inc.
+9C-E6-5E   (hex)		Apple, Inc.
+90-DD-5D   (hex)		Apple, Inc.
+08-F6-9C   (hex)		Apple, Inc.
+D4-61-DA   (hex)		Apple, Inc.
+C8-D0-83   (hex)		Apple, Inc.
+88-E9-FE   (hex)		Apple, Inc.
+88-AE-07   (hex)		Apple, Inc.
+18-AF-8F   (hex)		Apple, Inc.
+C8-B5-B7   (hex)		Apple, Inc.
+A8-BB-CF   (hex)		Apple, Inc.
+90-B2-1F   (hex)		Apple, Inc.
+B8-E8-56   (hex)		Apple, Inc.
+14-99-E2   (hex)		Apple, Inc.
+B4-18-D1   (hex)		Apple, Inc.
+80-00-6E   (hex)		Apple, Inc.
+60-D9-C7   (hex)		Apple, Inc.
+C8-F6-50   (hex)		Apple, Inc.
+1C-1A-C0   (hex)		Apple, Inc.
+E0-66-78   (hex)		Apple, Inc.
+5C-8D-4E   (hex)		Apple, Inc.
+C0-F2-FB   (hex)		Apple, Inc.
+00-F7-6F   (hex)		Apple, Inc.
+AC-87-A3   (hex)		Apple, Inc.
+54-26-96   (hex)		Apple, Inc.
+D8-D1-CB   (hex)		Apple, Inc.
+64-A3-CB   (hex)		Apple, Inc.
+44-FB-42   (hex)		Apple, Inc.
+F4-1B-A1   (hex)		Apple, Inc.
+3C-E0-72   (hex)		Apple, Inc.
+E8-8D-28   (hex)		Apple, Inc.
+CC-78-5F   (hex)		Apple, Inc.
+AC-3C-0B   (hex)		Apple, Inc.
+88-CB-87   (hex)		Apple, Inc.
+EC-35-86   (hex)		Apple, Inc.
+F0-C1-F1   (hex)		Apple, Inc.
+F4-F9-51   (hex)		Apple, Inc.
+8C-FA-BA   (hex)		Apple, Inc.
+5C-95-AE   (hex)		Apple, Inc.
+E0-C9-7A   (hex)		Apple, Inc.
+BC-52-B7   (hex)		Apple, Inc.
+14-10-9F   (hex)		Apple, Inc.
+7C-2E-BD   (hex)		Google, Inc.
+00-C3-F4   (hex)		Samsung Electronics Co.,Ltd
+B8-8A-EC   (hex)		Nintendo Co.,Ltd
+F4-BF-80   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+30-45-96   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+F8-C3-9E   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+D0-D7-83   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+74-EB-80   (hex)		Samsung Electronics Co.,Ltd
+A8-2B-B9   (hex)		Samsung Electronics Co.,Ltd
+14-57-9F   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+4C-21-D0   (hex)		Sony Mobile Communications Inc
+30-75-12   (hex)		Sony Mobile Communications Inc
+C4-3A-BE   (hex)		Sony Mobile Communications Inc
+40-B8-37   (hex)		Sony Mobile Communications Inc
+40-40-A7   (hex)		Sony Mobile Communications Inc
+84-C7-EA   (hex)		Sony Mobile Communications Inc
+38-8B-59   (hex)		Google, Inc.
+94-CE-2C   (hex)		Sony Mobile Communications Inc
+D0-51-62   (hex)		Sony Mobile Communications Inc
+00-25-E7   (hex)		Sony Mobile Communications Inc
+40-2B-A1   (hex)		Sony Mobile Communications Inc
+34-0A-98   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+60-F1-8A   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+00-12-EE   (hex)		Sony Mobile Communications Inc
+00-16-20   (hex)		Sony Mobile Communications Inc
+28-9E-97   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+34-2E-B6   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+90-2B-D2   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+BC-A5-8B   (hex)		Samsung Electronics Co.,Ltd
+70-FD-46   (hex)		Samsung Electronics Co.,Ltd
+D0-7F-A0   (hex)		Samsung Electronics Co.,Ltd
+58-2F-40   (hex)		Nintendo Co.,Ltd
+30-A1-FA   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+88-10-8F   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+F4-63-1F   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+24-FB-65   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+74-B5-87   (hex)		Apple, Inc.
+D8-1C-79   (hex)		Apple, Inc.
+8C-FE-57   (hex)		Apple, Inc.
+C0-A6-00   (hex)		Apple, Inc.
+80-69-33   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+A8-23-FE   (hex)		LG Electronics
+2C-CC-44   (hex)		Sony Interactive Entertainment Inc.
+FC-AA-B6   (hex)		Samsung Electronics Co.,Ltd
+C0-BD-C8   (hex)		Samsung Electronics Co.,Ltd
+A8-87-B3   (hex)		Samsung Electronics Co.,Ltd
+74-23-44   (hex)		Xiaomi Communications Co Ltd
+D8-32-E3   (hex)		Xiaomi Communications Co Ltd
+E0-62-67   (hex)		Xiaomi Communications Co Ltd
+48-2C-A0   (hex)		Xiaomi Communications Co Ltd
+18-01-F1   (hex)		Xiaomi Communications Co Ltd
+70-BB-E9   (hex)		Xiaomi Communications Co Ltd
+F0-B4-29   (hex)		Xiaomi Communications Co Ltd
+0C-98-38   (hex)		Xiaomi Communications Co Ltd
+0C-1D-AF   (hex)		Xiaomi Communications Co Ltd
+28-E3-1F   (hex)		Xiaomi Communications Co Ltd
+14-F6-5A   (hex)		Xiaomi Communications Co Ltd
+D4-C9-4B   (hex)		Motorola Mobility LLC, a Lenovo Company
+70-3A-51   (hex)		Xiaomi Communications Co Ltd
+A0-20-A6   (hex)		Espressif Inc.
+84-F3-EB   (hex)		Espressif Inc.
+84-0D-8E   (hex)		Espressif Inc.
+DC-08-0F   (hex)		Apple, Inc.
+F8-2D-7C   (hex)		Apple, Inc.
+9C-64-8B   (hex)		Apple, Inc.
+14-D0-0D   (hex)		Apple, Inc.
+1C-F2-9A   (hex)		Google, Inc.
+C4-06-83   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+FC-87-43   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+7C-D9-5C   (hex)		Google, Inc.
+84-69-91   (hex)		Nokia
+E8-93-63   (hex)		Nokia
+CC-66-B2   (hex)		Nokia
+10-E8-78   (hex)		Nokia
+48-F7-F1   (hex)		Nokia
+4C-C9-4F   (hex)		Nokia
+04-CF-8C   (hex)		XIAOMI Electronics,CO.,LTD
+40-31-3C   (hex)		XIAOMI Electronics,CO.,LTD
+7C-49-EB   (hex)		XIAOMI Electronics,CO.,LTD
+1C-EA-1B   (hex)		Nokia
+2C-F4-32   (hex)		Espressif Inc.
+F4-F5-D8   (hex)		Google, Inc.
+F4-F5-E8   (hex)		Google, Inc.
+F8-8F-CA   (hex)		Google, Inc.
+4C-FB-45   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+A4-BA-76   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+00-09-2D   (hex)		HTC Corporation
+F8-DB-7F   (hex)		HTC Corporation
+E8-99-C4   (hex)		HTC Corporation
+7C-B1-5D   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+34-CD-BE   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+D4-6A-A8   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+54-39-DF   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+48-46-FB   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+20-0B-C7   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+10-47-80   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+88-E3-AB   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+00-66-4B   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+68-A0-F6   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+5C-F9-6A   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+B4-30-52   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+88-CE-FA   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+58-2A-F7   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+F4-8E-92   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+40-CB-A8   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+08-7A-4C   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+D4-6E-5C   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+24-69-A5   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+C8-D1-5E   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+F8-3D-FF   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+30-87-30   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+00-25-68   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+30-D1-7E   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+9C-28-EF   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+7C-60-97   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+60-DE-44   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+34-00-A3   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+64-3E-8C   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+E0-36-76   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+24-DA-9B   (hex)		Motorola Mobility LLC, a Lenovo Company
+D8-EF-CD   (hex)		Nokia
+1C-56-FE   (hex)		Motorola Mobility LLC, a Lenovo Company
+7C-A2-3E   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+E8-BD-D1   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+FC-E3-3C   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+E4-90-7E   (hex)		Motorola Mobility LLC, a Lenovo Company
+80-01-84   (hex)		HTC Corporation
+F8-CF-C5   (hex)		Motorola Mobility LLC, a Lenovo Company
+24-9E-AB   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+74-A0-63   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+C8-08-E9   (hex)		LG Electronics
+30-D5-87   (hex)		Samsung Electronics Co.,Ltd
+C8-02-10   (hex)		LG Innotek
+3C-25-D7   (hex)		Nokia Corporation
+50-2E-5C   (hex)		HTC Corporation
+28-47-AA   (hex)		Nokia Corporation
+70-8D-09   (hex)		Nokia Corporation
+1C-08-C1   (hex)		Lg Innotek
+84-7A-88   (hex)		HTC Corporation
+C8-3D-97   (hex)		Nokia Corporation
+38-19-2F   (hex)		Nokia Corporation
+A0-F4-19   (hex)		Nokia Corporation
+F4-8E-09   (hex)		Nokia Corporation
+6C-E9-07   (hex)		Nokia Corporation
+AC-81-F3   (hex)		Nokia Corporation
+10-F9-EE   (hex)		Nokia Corporation
+FC-00-12   (hex)		Toshiba Samsung Storage Technolgoy Korea Corporation 
+A8-E0-18   (hex)		Nokia Corporation
+94-20-53   (hex)		Nokia Corporation
+54-42-49   (hex)		Sony Corporation
+3C-F7-2A   (hex)		Nokia Corporation
+00-25-38   (hex)		Samsung Electronics Co., Ltd., Memory Division
+00-22-A1   (hex)		Huawei Symantec Technologies Co.,Ltd.
+00-1E-B2   (hex)		LG innotek
+00-1B-3F   (hex)		ProCurve Networking by HP
+00-19-2D   (hex)		Nokia Corporation
+00-18-42   (hex)		Nokia Danmark A/S
+00-13-FD   (hex)		Nokia Danmark A/S
+00-05-C9   (hex)		LG Innotek Co., Ltd.
+00-E0-64   (hex)		SAMSUNG ELECTRONICS
+9C-D9-17   (hex)		Motorola Mobility LLC, a Lenovo Company
+90-68-C3   (hex)		Motorola Mobility LLC, a Lenovo Company
+40-88-05   (hex)		Motorola Mobility LLC, a Lenovo Company
+F8-F1-B6   (hex)		Motorola Mobility LLC, a Lenovo Company
+00-1D-BA   (hex)		Sony Corporation
+78-84-3C   (hex)		Sony Corporation
+08-00-46   (hex)		Sony Corporation
+38-94-96   (hex)		Samsung Electronics Co.,Ltd
+0C-B3-19   (hex)		Samsung Electronics Co.,Ltd
+08-EE-8B   (hex)		Samsung Electronics Co.,Ltd
+A8-9F-BA   (hex)		Samsung Electronics Co.,Ltd
+FC-19-10   (hex)		Samsung Electronics Co.,Ltd
+08-3D-88   (hex)		Samsung Electronics Co.,Ltd
+5C-2E-59   (hex)		Samsung Electronics Co.,Ltd
+64-6C-B2   (hex)		Samsung Electronics Co.,Ltd
+F8-84-F2   (hex)		Samsung Electronics Co.,Ltd
+14-B4-84   (hex)		Samsung Electronics Co.,Ltd
+60-8F-5C   (hex)		Samsung Electronics Co.,Ltd
+4C-BC-A5   (hex)		Samsung Electronics Co.,Ltd
+78-59-5E   (hex)		Samsung Electronics Co.,Ltd
+B0-D0-9C   (hex)		Samsung Electronics Co.,Ltd
+4C-A5-6D   (hex)		Samsung Electronics Co.,Ltd
+A4-84-31   (hex)		Samsung Electronics Co.,Ltd
+E4-F8-EF   (hex)		Samsung Electronics Co.,Ltd
+14-32-D1   (hex)		Samsung Electronics Co.,Ltd
+E4-58-E7   (hex)		Samsung Electronics Co.,Ltd
+8C-BF-A6   (hex)		Samsung Electronics Co.,Ltd
+78-40-E4   (hex)		Samsung Electronics Co.,Ltd
+90-00-DB   (hex)		Samsung Electronics Co.,Ltd
+18-3A-2D   (hex)		Samsung Electronics Co.,Ltd
+08-37-3D   (hex)		Samsung Electronics Co.,Ltd
+50-F5-20   (hex)		Samsung Electronics Co.,Ltd
+A4-EB-D3   (hex)		Samsung Electronics Co.,Ltd
+28-98-7B   (hex)		Samsung Electronics Co.,Ltd
+F4-0E-22   (hex)		Samsung Electronics Co.,Ltd
+9C-3A-AF   (hex)		Samsung Electronics Co.,Ltd
+D8-6B-F7   (hex)		Nintendo Co., Ltd.
+A4-C0-E1   (hex)		Nintendo Co., Ltd.
+34-AF-2C   (hex)		Nintendo Co., Ltd.
+8C-CD-E8   (hex)		Nintendo Co., Ltd.
+9C-E6-35   (hex)		Nintendo Co., Ltd.
+00-1E-35   (hex)		Nintendo Co., Ltd.
+00-1F-C5   (hex)		Nintendo Co., Ltd.
+00-21-BD   (hex)		Nintendo Co., Ltd.
+00-27-09   (hex)		Nintendo Co., Ltd.
+E8-4E-CE   (hex)		Nintendo Co., Ltd.
+00-09-BF   (hex)		Nintendo Co., Ltd.
+00-1A-E9   (hex)		Nintendo Co., Ltd.
+00-1C-BE   (hex)		Nintendo Co., Ltd.
+00-24-03   (hex)		Nokia Danmark A/S
+00-22-65   (hex)		Nokia Danmark A/S
+00-19-B7   (hex)		Nokia Danmark A/S
+00-24-04   (hex)		Nokia Danmark A/S
+00-02-EE   (hex)		Nokia Danmark A/S
+00-1C-9A   (hex)		Nokia Danmark A/S
+00-1F-01   (hex)		Nokia Danmark A/S
+00-0E-ED   (hex)		Nokia Danmark A/S
+00-1E-3A   (hex)		Nokia Danmark A/S
+00-1A-89   (hex)		Nokia Danmark A/S
+00-21-AA   (hex)		Nokia Danmark A/S
+00-26-69   (hex)		Nokia Danmark A/S
+00-22-FD   (hex)		Nokia Danmark A/S
+00-21-09   (hex)		Nokia Danmark A/S
+00-21-08   (hex)		Nokia Danmark A/S
+00-1D-6E   (hex)		Nokia Danmark A/S
+00-1B-33   (hex)		Nokia Danmark A/S
+EC-F3-5B   (hex)		Nokia Corporation
+EC-9B-5B   (hex)		Nokia Corporation
+BC-C6-DB   (hex)		Nokia Corporation
+08-21-EF   (hex)		Samsung Electronics Co.,Ltd
+A0-CB-FD   (hex)		Samsung Electronics Co.,Ltd
+34-14-5F   (hex)		Samsung Electronics Co.,Ltd
+AC-5F-3E   (hex)		SAMSUNG ELECTRO-MECHANICS(THAILAND)
+50-9E-A7   (hex)		Samsung Electronics Co.,Ltd
+DC-CF-96   (hex)		Samsung Electronics Co.,Ltd
+14-D1-1F   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+54-51-1B   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+E4-7E-66   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+9C-74-1A   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+E0-A3-AC   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+C0-97-27   (hex)		SAMSUNG ELECTRO-MECHANICS(THAILAND)
+04-27-58   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+D8-5B-2A   (hex)		Samsung Electronics Co.,Ltd
+AC-C3-3A   (hex)		Samsung Electronics Co.,Ltd
+88-79-7E   (hex)		Motorola Mobility LLC, a Lenovo Company
+3C-07-71   (hex)		Sony Corporation
+D8-D4-3C   (hex)		Sony Corporation
+5C-A8-6A   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+0C-FE-45   (hex)		Sony Interactive Entertainment Inc.
+F8-D0-AC   (hex)		Sony Interactive Entertainment Inc.
+00-D9-D1   (hex)		Sony Interactive Entertainment Inc.
+00-04-1F   (hex)		Sony Interactive Entertainment Inc.
+00-1D-0D   (hex)		Sony Interactive Entertainment Inc.
+00-E0-91   (hex)		LG Electronics
+6C-D0-32   (hex)		LG Electronics
+C0-41-F6   (hex)		LG ELECTRONICS INC
+00-23-47   (hex)		ProCurve Networking by HP
+00-25-61   (hex)		ProCurve Networking by HP
+48-FD-8E   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+24-44-27   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+00-17-D5   (hex)		Samsung Electronics Co.,Ltd
+00-12-47   (hex)		Samsung Electronics Co.,Ltd
+E4-12-1D   (hex)		Samsung Electronics Co.,Ltd
+68-48-98   (hex)		Samsung Electronics Co.,Ltd
+F4-09-D8   (hex)		SAMSUNG ELECTRO-MECHANICS(THAILAND)
+B4-79-A7   (hex)		SAMSUNG ELECTRO-MECHANICS(THAILAND)
+00-23-39   (hex)		Samsung Electronics Co.,Ltd
+D4-87-D8   (hex)		Samsung Electronics Co.,Ltd
+18-46-17   (hex)		Samsung Electronics Co.,Ltd
+50-01-BB   (hex)		Samsung Electronics Co.,Ltd
+38-0A-94   (hex)		Samsung Electronics Co.,Ltd
+D8-57-EF   (hex)		Samsung Electronics Co.,Ltd
+1C-66-AA   (hex)		Samsung Electronics Co.,Ltd
+58-C3-8B   (hex)		Samsung Electronics Co.,Ltd
+00-1E-E2   (hex)		Samsung Electronics Co.,Ltd
+00-1C-43   (hex)		Samsung Electronics Co.,Ltd
+00-1D-25   (hex)		Samsung Electronics Co.,Ltd
+3C-5A-37   (hex)		Samsung Electronics Co.,Ltd
+54-9B-12   (hex)		Samsung Electronics Co.,Ltd
+3C-8B-FE   (hex)		Samsung Electronics Co.,Ltd
+00-26-5D   (hex)		Samsung Electronics Co.,Ltd
+D4-E8-B2   (hex)		Samsung Electronics Co.,Ltd
+08-08-C2   (hex)		Samsung Electronics Co.,Ltd
+B0-C4-E7   (hex)		Samsung Electronics Co.,Ltd
+D8-90-E8   (hex)		Samsung Electronics Co.,Ltd
+34-AA-8B   (hex)		Samsung Electronics Co.,Ltd
+24-C6-96   (hex)		Samsung Electronics Co.,Ltd
+18-1E-B0   (hex)		Samsung Electronics Co.,Ltd
+20-D3-90   (hex)		Samsung Electronics Co.,Ltd
+34-31-11   (hex)		Samsung Electronics Co.,Ltd
+34-BE-00   (hex)		Samsung Electronics Co.,Ltd
+78-52-1A   (hex)		Samsung Electronics Co.,Ltd
+18-D2-76   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+78-25-AD   (hex)		Samsung Electronics Co.,Ltd
+F4-D9-FB   (hex)		Samsung Electronics Co.,Ltd
+00-17-C9   (hex)		Samsung Electronics Co.,Ltd
+00-16-6B   (hex)		Samsung Electronics Co.,Ltd
+00-16-6C   (hex)		Samsung Electronics Co.,Ltd
+E4-7C-F9   (hex)		Samsung Electronics Co.,Ltd
+90-18-7C   (hex)		SAMSUNG ELECTRO MECHANICS CO., LTD.
+FC-1F-19   (hex)		SAMSUNG ELECTRO MECHANICS CO., LTD.
+50-CC-F8   (hex)		SAMSUNG ELECTRO MECHANICS CO., LTD.
+98-0C-82   (hex)		SAMSUNG ELECTRO MECHANICS CO., LTD.
+00-21-19   (hex)		SAMSUNG ELECTRO MECHANICS CO., LTD.
+00-24-54   (hex)		Samsung Electronics Co.,Ltd
+20-D5-BF   (hex)		Samsung Electronics Co.,Ltd
+30-CD-A7   (hex)		Samsung Electronics Co.,Ltd
+5C-0A-5B   (hex)		SAMSUNG ELECTRO MECHANICS CO., LTD.
+54-35-30   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+30-0E-D5   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+D0-27-88   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+00-14-A4   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+00-16-CE   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+00-1D-D9   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+00-1F-E2   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+00-22-69   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+40-49-0F   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+28-56-5A   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+00-1F-3A   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+50-63-13   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+78-E4-00   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+8C-7C-B5   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+EC-55-F9   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+C0-38-96   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+2C-33-7A   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+AC-D1-B8   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+48-E2-44   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+30-F7-72   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+90-48-9A   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+94-39-E5   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+C8-7E-75   (hex)		Samsung Electronics Co.,Ltd
+00-23-3A   (hex)		Samsung Electronics Co.,Ltd
+94-95-A0   (hex)		Google, Inc.
+4C-F9-5D   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+84-21-F1   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+70-79-90   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+60-A4-D0   (hex)		Samsung Electronics Co.,Ltd
+2C-0E-3D   (hex)		SAMSUNG ELECTRO-MECHANICS(THAILAND)
+3C-FA-43   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+14-5F-94   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+64-DB-43   (hex)		Motorola (Wuhan) Mobility Technologies Communication Co., Ltd.
+E8-9E-B4   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+C0-BF-C0   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+A0-8C-F8   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+98-B6-E9   (hex)		Nintendo Co.,Ltd
+C8-94-BB   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+D0-FF-98   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+50-04-B8   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+10-B1-F8   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+3C-BD-3E   (hex)		Beijing Xiaomi Electronics Co., Ltd.
+F8-75-88   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+BC-3F-8F   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+7C-78-7E   (hex)		Samsung Electronics Co.,Ltd
+C0-D3-C0   (hex)		Samsung Electronics Co.,Ltd
+28-A6-DB   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+54-FA-3E   (hex)		Samsung Electronics Co.,Ltd
+0C-89-10   (hex)		Samsung Electronics Co.,Ltd
+FC-F1-36   (hex)		Samsung Electronics Co.,Ltd
+98-1D-FA   (hex)		Samsung Electronics Co.,Ltd
+84-A4-66   (hex)		Samsung Electronics Co.,Ltd
+18-67-B0   (hex)		Samsung Electronics Co.,Ltd
+CC-B1-1A   (hex)		Samsung Electronics Co.,Ltd
+B8-BB-AF   (hex)		Samsung Electronics Co.,Ltd
+60-C5-AD   (hex)		Samsung Electronics Co.,Ltd
+28-39-5E   (hex)		Samsung Electronics Co.,Ltd
+C4-AE-12   (hex)		Samsung Electronics Co.,Ltd
+DC-74-A8   (hex)		Samsung Electronics Co.,Ltd
+C0-87-EB   (hex)		Samsung Electronics Co.,Ltd
+74-F6-1C   (hex)		HTC Corporation
+04-03-D6   (hex)		Nintendo Co.,Ltd
+B4-E6-2A   (hex)		LG Innotek
+A8-96-75   (hex)		Motorola Mobility LLC, a Lenovo Company
+60-8E-08   (hex)		Samsung Electronics Co.,Ltd
+7C-2E-DD   (hex)		Samsung Electronics Co.,Ltd
+3C-F7-A4   (hex)		Samsung Electronics Co.,Ltd
+34-2D-0D   (hex)		Samsung Electronics Co.,Ltd
+8C-25-05   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+FC-01-7C   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+94-0E-6B   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+38-37-8B   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+08-78-08   (hex)		Samsung Electronics Co.,Ltd
+D0-31-69   (hex)		Samsung Electronics Co.,Ltd
+BC-54-51   (hex)		Samsung Electronics Co.,Ltd
+3C-E8-24   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+E8-AB-F3   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+50-6F-77   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+04-4E-AF   (hex)		LG Innotek
+64-1C-AE   (hex)		Samsung Electronics Co.,Ltd
+4C-D0-CB   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+A4-E9-75   (hex)		Apple, Inc.
+C0-A5-3E   (hex)		Apple, Inc.
+98-00-C6   (hex)		Apple, Inc.
+78-7B-8A   (hex)		Apple, Inc.
+38-66-F0   (hex)		Apple, Inc.
+20-EE-28   (hex)		Apple, Inc.
+08-F4-AB   (hex)		Apple, Inc.
+8C-85-90   (hex)		Apple, Inc.
+68-EF-43   (hex)		Apple, Inc.
+CC-2D-B7   (hex)		Apple, Inc.
+D4-A3-3D   (hex)		Apple, Inc.
+E4-E0-A6   (hex)		Apple, Inc.
+70-EF-00   (hex)		Apple, Inc.
+B0-CA-68   (hex)		Apple, Inc.
+98-10-E8   (hex)		Apple, Inc.
+B4-9C-DF   (hex)		Apple, Inc.
+DC-A4-CA   (hex)		Apple, Inc.
+8C-8F-E9   (hex)		Apple, Inc.
+98-CA-33   (hex)		Apple, Inc.
+FC-25-3F   (hex)		Apple, Inc.
+18-34-51   (hex)		Apple, Inc.
+C0-84-7A   (hex)		Apple, Inc.
+64-20-0C   (hex)		Apple, Inc.
+74-E1-B6   (hex)		Apple, Inc.
+0C-77-1A   (hex)		Apple, Inc.
+00-F4-B9   (hex)		Apple, Inc.
+C8-33-4B   (hex)		Apple, Inc.
+B8-F6-B1   (hex)		Apple, Inc.
+C0-9F-42   (hex)		Apple, Inc.
+18-9E-FC   (hex)		Apple, Inc.
+6C-3E-6D   (hex)		Apple, Inc.
+8C-2D-AA   (hex)		Apple, Inc.
+E4-E4-AB   (hex)		Apple, Inc.
+58-40-4E   (hex)		Apple, Inc.
+DC-0C-5C   (hex)		Apple, Inc.
+2C-20-0B   (hex)		Apple, Inc.
+60-9A-C1   (hex)		Apple, Inc.
+F0-79-60   (hex)		Apple, Inc.
+9C-8B-A0   (hex)		Apple, Inc.
+28-A0-2B   (hex)		Apple, Inc.
+B4-4B-D2   (hex)		Apple, Inc.
+9C-4F-DA   (hex)		Apple, Inc.
+1C-5C-F2   (hex)		Apple, Inc.
+38-71-DE   (hex)		Apple, Inc.
+BC-54-36   (hex)		Apple, Inc.
+5C-F9-38   (hex)		Apple, Inc.
+4C-32-75   (hex)		Apple, Inc.
+2C-F0-A2   (hex)		Apple, Inc.
+EC-AD-B8   (hex)		Apple, Inc.
+98-01-A7   (hex)		Apple, Inc.
+B4-8B-19   (hex)		Apple, Inc.
+E4-9A-79   (hex)		Apple, Inc.
+40-6C-8F   (hex)		Apple, Inc.
+00-C6-10   (hex)		Apple, Inc.
+70-DE-E2   (hex)		Apple, Inc.
+18-20-32   (hex)		Apple, Inc.
+6C-C2-6B   (hex)		Apple, Inc.
+10-40-F3   (hex)		Apple, Inc.
+00-1D-4F   (hex)		Apple, Inc.
+00-1E-52   (hex)		Apple, Inc.
+00-1F-5B   (hex)		Apple, Inc.
+00-1F-F3   (hex)		Apple, Inc.
+00-21-E9   (hex)		Apple, Inc.
+00-23-6C   (hex)		Apple, Inc.
+00-25-00   (hex)		Apple, Inc.
+60-FB-42   (hex)		Apple, Inc.
+F8-1E-DF   (hex)		Apple, Inc.
+90-84-0D   (hex)		Apple, Inc.
+D8-A2-5E   (hex)		Apple, Inc.
+C8-BC-C8   (hex)		Apple, Inc.
+28-E7-CF   (hex)		Apple, Inc.
+D8-9E-3F   (hex)		Apple, Inc.
+04-0C-CE   (hex)		Apple, Inc.
+A4-D1-D2   (hex)		Apple, Inc.
+7C-FA-DF   (hex)		Apple, Inc.
+10-1C-0C   (hex)		Apple, Inc.
+00-11-24   (hex)		Apple, Inc.
+6C-70-9F   (hex)		Apple, Inc.
+0C-3E-9F   (hex)		Apple, Inc.
+34-E2-FD   (hex)		Apple, Inc.
+60-92-17   (hex)		Apple, Inc.
+88-63-DF   (hex)		Apple, Inc.
+80-E6-50   (hex)		Apple, Inc.
+00-61-71   (hex)		Apple, Inc.
+90-FD-61   (hex)		Apple, Inc.
+5C-97-F3   (hex)		Apple, Inc.
+6C-40-08   (hex)		Apple, Inc.
+24-A0-74   (hex)		Apple, Inc.
+F0-24-75   (hex)		Apple, Inc.
+20-A2-E4   (hex)		Apple, Inc.
+5C-F5-DA   (hex)		Apple, Inc.
+64-9A-BE   (hex)		Apple, Inc.
+94-E9-6A   (hex)		Apple, Inc.
+AC-29-3A   (hex)		Apple, Inc.
+10-41-7F   (hex)		Apple, Inc.
+B8-44-D9   (hex)		Apple, Inc.
+DC-2B-2A   (hex)		Apple, Inc.
+14-20-5E   (hex)		Apple, Inc.
+5C-1D-D9   (hex)		Apple, Inc.
+18-F1-D8   (hex)		Apple, Inc.
+F8-6F-C1   (hex)		Apple, Inc.
+F0-99-B6   (hex)		Apple, Inc.
+90-72-40   (hex)		Apple, Inc.
+0C-4D-E9   (hex)		Apple, Inc.
+D8-96-95   (hex)		Apple, Inc.
+0C-30-21   (hex)		Apple, Inc.
+F0-F6-1C   (hex)		Apple, Inc.
+B0-34-95   (hex)		Apple, Inc.
+84-8E-0C   (hex)		Apple, Inc.
+94-94-26   (hex)		Apple, Inc.
+E0-F5-C6   (hex)		Apple, Inc.
+28-E1-4C   (hex)		Apple, Inc.
+54-E4-3A   (hex)		Apple, Inc.
+C8-E0-EB   (hex)		Apple, Inc.
+A8-88-08   (hex)		Apple, Inc.
+44-4C-0C   (hex)		Apple, Inc.
+84-FC-FE   (hex)		Apple, Inc.
+E4-8B-7F   (hex)		Apple, Inc.
+5C-96-9D   (hex)		Apple, Inc.
+A8-FA-D8   (hex)		Apple, Inc.
+70-14-A6   (hex)		Apple, Inc.
+A8-66-7F   (hex)		Apple, Inc.
+D0-25-98   (hex)		Apple, Inc.
+CC-29-F5   (hex)		Apple, Inc.
+DC-D3-A2   (hex)		Apple, Inc.
+F8-5C-4D   (hex)		Nokia
+08-C5-E1   (hex)		SAMSUNG ELECTRO-MECHANICS(THAILAND)
+20-3D-BD   (hex)		LG Innotek
+00-BF-61   (hex)		Samsung Electronics Co.,Ltd
+F8-0C-F3   (hex)		LG Electronics (Mobile Communications)
+30-76-6F   (hex)		LG Electronics (Mobile Communications)
+8C-3A-E3   (hex)		LG Electronics (Mobile Communications)
+78-F8-82   (hex)		LG Electronics (Mobile Communications)
+B4-F1-DA   (hex)		LG Electronics (Mobile Communications)
+00-21-FB   (hex)		LG Electronics (Mobile Communications)
+D0-13-FD   (hex)		LG Electronics (Mobile Communications)
+A8-B8-6E   (hex)		LG Electronics (Mobile Communications)
+20-78-52   (hex)		Nokia
+70-26-05   (hex)		SONY Visual Products Inc.
+DC-BF-E9   (hex)		Motorola Mobility LLC, a Lenovo Company
+30-6A-85   (hex)		Samsung Electronics Co.,Ltd
+7C-A1-77   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+E4-0E-EE   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+08-47-D0   (hex)		Nokia Shanghai Bell Co. Ltd.）
+A8-7D-12   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+C0-F4-E6   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+FC-A6-21   (hex)		Samsung Electronics Co.,Ltd
+9C-71-3A   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+B4-43-26   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+30-A8-DB   (hex)		Sony Mobile Communications Inc
+44-74-6C   (hex)		Sony Mobile Communications Inc
+18-00-2D   (hex)		Sony Mobile Communications Inc
+30-17-C8   (hex)		Sony Mobile Communications Inc
+00-23-F1   (hex)		Sony Mobile Communications Inc
+00-1B-59   (hex)		Sony Mobile Communications Inc
+00-19-63   (hex)		Sony Mobile Communications Inc
+00-1E-DC   (hex)		Sony Mobile Communications Inc
+00-0F-DE   (hex)		Sony Mobile Communications Inc
+D0-EF-C1   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+64-6D-6C   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+48-57-02   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+00-0A-D9   (hex)		Sony Mobile Communications Inc
+0C-CB-85   (hex)		Motorola Mobility LLC, a Lenovo Company
+A4-D9-90   (hex)		Samsung Electronics Co.,Ltd
+E4-34-93   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+34-29-12   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+0C-7C-28   (hex)		Nokia
+D0-03-DF   (hex)		Samsung Electronics Co.,Ltd
+24-FC-E5   (hex)		Samsung Electronics Co.,Ltd
+E4-B2-FB   (hex)		Apple, Inc.
+F8-38-80   (hex)		Apple, Inc.
+24-1B-7A   (hex)		Apple, Inc.
+40-26-19   (hex)		Apple, Inc.
+BC-FE-D9   (hex)		Apple, Inc.
+80-82-23   (hex)		Apple, Inc.
+1C-59-9B   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+80-7D-14   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+7C-C3-85   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+38-30-F9   (hex)		LG Electronics (Mobile Communications)
+6C-00-6B   (hex)		Samsung Electronics Co.,Ltd
+38-A4-ED   (hex)		Xiaomi Communications Co Ltd
+B0-E2-35   (hex)		Xiaomi Communications Co Ltd
+64-CC-2E   (hex)		Xiaomi Communications Co Ltd
+D8-63-75   (hex)		Xiaomi Communications Co Ltd
+80-AD-16   (hex)		Xiaomi Communications Co Ltd
+20-47-DA   (hex)		Xiaomi Communications Co Ltd
+80-35-C1   (hex)		Xiaomi Communications Co Ltd
+94-87-E0   (hex)		Xiaomi Communications Co Ltd
+7C-03-AB   (hex)		Xiaomi Communications Co Ltd
+D4-97-0B   (hex)		Xiaomi Communications Co Ltd
+F4-8B-32   (hex)		Xiaomi Communications Co Ltd
+4C-49-E3   (hex)		Xiaomi Communications Co Ltd
+04-B1-67   (hex)		Xiaomi Communications Co Ltd
+18-FE-34   (hex)		Espressif Inc.
+90-97-D5   (hex)		Espressif Inc.
+60-01-94   (hex)		Espressif Inc.
+D8-CE-3A   (hex)		Xiaomi Communications Co Ltd
+2C-3A-E8   (hex)		Espressif Inc.
+A4-7B-9D   (hex)		Espressif Inc.
+DC-4F-22   (hex)		Espressif Inc.
+BC-DD-C2   (hex)		Espressif Inc.
+FC-18-3C   (hex)		Apple, Inc.
+C0-E8-62   (hex)		Apple, Inc.
+EC-2C-E2   (hex)		Apple, Inc.
+64-C7-53   (hex)		Apple, Inc.
+94-58-CB   (hex)		Nintendo Co.,Ltd
+48-FD-A3   (hex)		Xiaomi Communications Co Ltd
+7C-03-5E   (hex)		Xiaomi Communications Co Ltd
+74-60-FA   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+88-40-3B   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+68-A0-3E   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+B8-C3-85   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+C8-28-32   (hex)		Beijing Xiaomi Electronics Co., Ltd.
+64-C2-DE   (hex)		LG Electronics (Mobile Communications)
+EC-41-18   (hex)		XIAOMI Electronics,CO.,LTD
+38-52-1A   (hex)		Nokia
+84-DB-FC   (hex)		Nokia
+14-3E-60   (hex)		Nokia
+D4-E3-3F   (hex)		Nokia
+A4-92-CB   (hex)		Nokia
+50-40-61   (hex)		Nokia
+F8-13-08   (hex)		Nokia
+58-D9-C3   (hex)		Motorola Mobility LLC, a Lenovo Company
+64-16-F0   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+48-DB-50   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+24-00-BA   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+F4-03-04   (hex)		Google, Inc.
+38-E7-D8   (hex)		HTC Corporation
+D8-B3-77   (hex)		HTC Corporation
+B4-CE-F6   (hex)		HTC Corporation
+D4-0B-1A   (hex)		HTC Corporation
+A0-8D-16   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+E8-4D-D0   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+24-09-95   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+24-7F-3C   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+1C-8E-5C   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+94-77-2B   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+F4-E3-FB   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+04-02-1F   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+00-34-FE   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+D0-2D-B3   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+08-63-61   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+F8-01-13   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+70-72-3C   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+5C-7D-5E   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+4C-8B-EF   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+20-F3-A3   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+AC-E8-7B   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+68-8F-84   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+EC-CB-30   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+78-6A-89   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+20-08-ED   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+50-9F-27   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+CC-96-A0   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+54-A5-1B   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+F4-C7-14   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+28-6E-D4   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+04-F9-38   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+FC-48-EF   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+80-FB-06   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+D4-B1-10   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+CC-53-B5   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+EC-38-8F   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+BC-9C-31   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+E4-35-C8   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+F8-BF-09   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+5C-B3-95   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+9C-37-F4   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+F0-18-2B   (hex)		LG Chem
+44-80-EB   (hex)		Motorola Mobility LLC, a Lenovo Company
+B0-61-C7   (hex)		Ericsson-LG Enterprise
+FC-92-3B   (hex)		Nokia Corporation
+4C-CC-34   (hex)		Motorola Solutions Inc.
+CC-3A-61   (hex)		SAMSUNG ELECTRO MECHANICS CO., LTD.
+0C-C6-6A   (hex)		Nokia Corporation
+E8-CB-A1   (hex)		Nokia Corporation
+F8-5F-2A   (hex)		Nokia Corporation
+1C-B0-94   (hex)		HTC Corporation
+A0-F4-50   (hex)		HTC Corporation
+04-5A-95   (hex)		Nokia Corporation
+9C-CA-D9   (hex)		Nokia Corporation
+94-3A-F0   (hex)		Nokia Corporation
+30-F9-ED   (hex)		Sony Corporation
+AC-93-2F   (hex)		Nokia Corporation
+90-CF-15   (hex)		Nokia Corporation
+C8-DF-7C   (hex)		Nokia Corporation
+48-2C-EA   (hex)		Motorola Inc Business Light Radios
+5C-57-C8   (hex)		Nokia Corporation
+C0-38-F9   (hex)		Nokia Danmark A/S
+F0-62-81   (hex)		ProCurve Networking by HP
+00-24-37   (hex)		Motorola - BSG
+00-22-A6   (hex)		Sony Computer Entertainment America
+00-19-A1   (hex)		LG INFORMATION & COMM.
+00-14-80   (hex)		Hitachi-LG Data Storage Korea, Inc
+00-0F-BB   (hex)		Nokia Siemens Networks GmbH & Co. KG.
+00-0B-E1   (hex)		Nokia NET Product Operations
+00-0B-29   (hex)		LS(LG) Industrial Systems co.,Ltd
+00-09-18   (hex)		SAMSUNG TECHWIN CO.,LTD
+00-A0-BF   (hex)		WIRELESS DATA GROUP MOTOROLA
+EC-88-92   (hex)		Motorola Mobility LLC, a Lenovo Company
+B0-79-94   (hex)		Motorola Mobility LLC, a Lenovo Company
+14-1A-A3   (hex)		Motorola Mobility LLC, a Lenovo Company
+CC-C3-EA   (hex)		Motorola Mobility LLC, a Lenovo Company
+34-BB-26   (hex)		Motorola Mobility LLC, a Lenovo Company
+40-78-6A   (hex)		Motorola Mobility LLC, a Lenovo Company
+BC-62-0E   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+78-F5-57   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+E0-28-61   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+C4-47-3F   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+AC-EE-9E   (hex)		Samsung Electronics Co.,Ltd
+C0-89-97   (hex)		Samsung Electronics Co.,Ltd
+28-27-BF   (hex)		Samsung Electronics Co.,Ltd
+F0-5B-7B   (hex)		Samsung Electronics Co.,Ltd
+7C-F9-0E   (hex)		Samsung Electronics Co.,Ltd
+AC-5A-14   (hex)		Samsung Electronics Co.,Ltd
+B0-C5-59   (hex)		Samsung Electronics Co.,Ltd
+BC-D1-1F   (hex)		Samsung Electronics Co.,Ltd
+A0-B4-A5   (hex)		Samsung Electronics Co.,Ltd
+80-65-6D   (hex)		Samsung Electronics Co.,Ltd
+48-13-7E   (hex)		Samsung Electronics Co.,Ltd
+E8-3A-12   (hex)		Samsung Electronics Co.,Ltd
+9C-02-98   (hex)		Samsung Electronics Co.,Ltd
+6C-83-36   (hex)		Samsung Electronics Co.,Ltd
+B8-C6-8E   (hex)		Samsung Electronics Co.,Ltd
+74-45-8A   (hex)		Samsung Electronics Co.,Ltd
+A4-9A-58   (hex)		Samsung Electronics Co.,Ltd
+B4-EF-39   (hex)		Samsung Electronics Co.,Ltd
+14-A3-64   (hex)		Samsung Electronics Co.,Ltd
+3C-A1-0D   (hex)		Samsung Electronics Co.,Ltd
+20-6E-9C   (hex)		Samsung Electronics Co.,Ltd
+18-3F-47   (hex)		Samsung Electronics Co.,Ltd
+0C-71-5D   (hex)		Samsung Electronics Co.,Ltd
+0C-14-20   (hex)		Samsung Electronics Co.,Ltd
+A8-06-00   (hex)		Samsung Electronics Co.,Ltd
+6C-F3-73   (hex)		Samsung Electronics Co.,Ltd
+E0-0C-7F   (hex)		Nintendo Co., Ltd.
+58-BD-A3   (hex)		Nintendo Co., Ltd.
+00-25-A0   (hex)		Nintendo Co., Ltd.
+00-26-59   (hex)		Nintendo Co., Ltd.
+8C-56-C5   (hex)		Nintendo Co., Ltd.
+CC-9E-00   (hex)		Nintendo Co., Ltd.
+00-16-56   (hex)		Nintendo Co., Ltd.
+00-19-1D   (hex)		Nintendo Co., Ltd.
+00-19-FD   (hex)		Nintendo Co., Ltd.
+00-1E-A9   (hex)		Nintendo Co., Ltd.
+A8-44-81   (hex)		Nokia Corporation
+88-44-F6   (hex)		Nokia Corporation
+A8-7B-39   (hex)		Nokia Corporation
+14-C1-26   (hex)		Nokia Corporation
+4C-25-78   (hex)		Nokia Corporation
+00-1E-A4   (hex)		Nokia Danmark A/S
+00-12-62   (hex)		Nokia Danmark A/S
+00-17-4B   (hex)		Nokia Danmark A/S
+00-25-47   (hex)		Nokia Danmark A/S
+00-1D-E9   (hex)		Nokia Danmark A/S
+00-1D-3B   (hex)		Nokia Danmark A/S
+00-14-A7   (hex)		Nokia Danmark A/S
+00-1C-D6   (hex)		Nokia Danmark A/S
+78-C3-E9   (hex)		Samsung Electronics Co.,Ltd
+30-A9-DE   (hex)		LG Innotek
+98-0C-A5   (hex)		Motorola (Wuhan) Mobility Technologies Communication Co., Ltd.
+C8-38-70   (hex)		Samsung Electronics Co.,Ltd
+28-83-35   (hex)		Samsung Electronics Co.,Ltd
+44-78-3E   (hex)		Samsung Electronics Co.,Ltd
+20-2D-07   (hex)		Samsung Electronics Co.,Ltd
+D4-61-2E   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+1C-67-58   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+BC-75-74   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+20-A6-80   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+34-A2-A2   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+20-F1-7C   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+34-B3-54   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+74-9D-8F   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+34-6A-C2   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+98-39-8E   (hex)		Samsung Electronics Co.,Ltd
+34-8A-7B   (hex)		Samsung Electronics Co.,Ltd
+BC-76-5E   (hex)		Samsung Electronics Co.,Ltd
+78-00-9E   (hex)		Samsung Electronics Co.,Ltd
+68-C4-4D   (hex)		Motorola Mobility LLC, a Lenovo Company
+F8-E6-1A   (hex)		Samsung Electronics Co.,Ltd
+88-83-22   (hex)		Samsung Electronics Co.,Ltd
+84-B5-41   (hex)		Samsung Electronics Co.,Ltd
+50-01-6B   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+00-15-B9   (hex)		Samsung Electronics Co.,Ltd
+00-1D-F6   (hex)		Samsung Electronics Co.,Ltd
+EC-E0-9B   (hex)		Samsung Electronics Co.,Ltd
+60-6B-BD   (hex)		Samsung Electronics Co.,Ltd
+00-00-F0   (hex)		Samsung Electronics Co.,Ltd
+48-44-F7   (hex)		Samsung Electronics Co.,Ltd
+DC-71-44   (hex)		SAMSUNG ELECTRO MECHANICS CO., LTD.
+A0-0B-BA   (hex)		SAMSUNG ELECTRO MECHANICS CO., LTD.
+1C-5A-3E   (hex)		Samsung Electronics Co.,Ltd
+F4-7B-5E   (hex)		Samsung Electronics Co.,Ltd
+C4-46-19   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+F0-F0-02   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+88-9F-FA   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+5C-AC-4C   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+18-F4-6A   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+38-59-F9   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+BC-85-56   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+9C-2A-70   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+F8-2F-A8   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+0C-EE-E6   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+0C-60-76   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+90-FB-A6   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+00-19-7D   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+00-1C-26   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+9C-AD-97   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+2C-81-58   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+14-2D-27   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+84-25-19   (hex)		Samsung Electronics
+00-87-01   (hex)		Samsung Electronics Co.,Ltd
+FC-42-03   (hex)		Samsung Electronics Co.,Ltd
+1C-23-2C   (hex)		Samsung Electronics Co.,Ltd
+CC-61-E5   (hex)		Motorola Mobility LLC, a Lenovo Company
+40-4E-36   (hex)		HTC Corporation
+30-74-96   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+70-8A-09   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+14-9D-09   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+F4-CB-52   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+44-6E-E5   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+28-0D-FC   (hex)		Sony Interactive Entertainment Inc.
+00-15-C1   (hex)		Sony Interactive Entertainment Inc.
+00-19-C5   (hex)		Sony Interactive Entertainment Inc.
+98-93-CC   (hex)		LG ELECTRONICS INC
+3C-CD-93   (hex)		LG ELECTRONICS INC
+F0-6B-CA   (hex)		Samsung Electronics Co.,Ltd
+34-23-BA   (hex)		SAMSUNG ELECTRO-MECHANICS(THAILAND)
+D0-22-BE   (hex)		SAMSUNG ELECTRO-MECHANICS(THAILAND)
+D0-25-44   (hex)		SAMSUNG ELECTRO-MECHANICS(THAILAND)
+BC-20-A4   (hex)		Samsung Electronics Co.,Ltd
+14-F4-2A   (hex)		Samsung Electronics Co.,Ltd
+BC-85-1F   (hex)		Samsung Electronics Co.,Ltd
+B8-5E-7B   (hex)		Samsung Electronics Co.,Ltd
+C4-62-EA   (hex)		Samsung Electronics Co.,Ltd
+00-23-D6   (hex)		Samsung Electronics Co.,Ltd
+00-24-91   (hex)		Samsung Electronics Co.,Ltd
+00-1B-98   (hex)		Samsung Electronics Co.,Ltd
+44-F4-59   (hex)		Samsung Electronics Co.,Ltd
+34-C3-AC   (hex)		Samsung Electronics Co.,Ltd
+94-D7-71   (hex)		Samsung Electronics Co.,Ltd
+4C-3C-16   (hex)		Samsung Electronics Co.,Ltd
+94-01-C2   (hex)		Samsung Electronics Co.,Ltd
+B4-3A-28   (hex)		Samsung Electronics Co.,Ltd
+A8-C8-3A   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+84-9F-B5   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+D0-C1-B1   (hex)		Samsung Electronics Co.,Ltd
+F0-08-F1   (hex)		Samsung Electronics Co.,Ltd
+78-47-1D   (hex)		Samsung Electronics Co.,Ltd
+38-16-D1   (hex)		Samsung Electronics Co.,Ltd
+D4-88-90   (hex)		Samsung Electronics Co.,Ltd
+00-25-66   (hex)		Samsung Electronics Co.,Ltd
+00-26-5F   (hex)		Samsung Electronics Co.,Ltd
+9C-7D-A3   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+F0-2F-A7   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+88-3F-D3   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+D4-6A-6A   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+34-1E-6B   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+B0-E5-ED   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+C8-14-51   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+C4-86-E9   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+D8-C7-71   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+F0-C8-50   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+54-25-EA   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+70-20-84   (hex)		Hon Hai Precision Ind. Co., Ltd.
+68-CC-6E   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+30-96-FB   (hex)		Samsung Electronics Co.,Ltd
+F0-EE-10   (hex)		Samsung Electronics Co.,Ltd
+84-A9-C4   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+A0-F4-79   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+C4-57-6E   (hex)		Samsung Electronics Co.,Ltd
+90-F1-AA   (hex)		Samsung Electronics Co.,Ltd
+78-BD-BC   (hex)		Samsung Electronics Co.,Ltd
+D4-7A-E2   (hex)		Samsung Electronics Co.,Ltd
+84-C0-EF   (hex)		Samsung Electronics Co.,Ltd
+7C-1C-68   (hex)		Samsung Electronics Co.,Ltd
+6C-B2-27   (hex)		Sony Video & Sound Products Inc.
+D4-63-C6   (hex)		Motorola Mobility LLC, a Lenovo Company
+0C-8F-FF   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+54-B1-21   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+78-62-56   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+A8-0C-63   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+5C-C3-07   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+F8-6E-EE   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+E4-FB-5D   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+5C-54-6D   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+18-14-56   (hex)		Nokia Corporation
+E4-EC-10   (hex)		Nokia Corporation
+9C-4A-7B   (hex)		Nokia Corporation
+48-EC-5B   (hex)		Nokia
+7C-64-56   (hex)		Samsung Electronics Co.,Ltd
+44-8F-17   (hex)		Samsung Electronics Co., Ltd. ARTIK
+04-D6-AA   (hex)		SAMSUNG ELECTRO-MECHANICS(THAILAND)
+9C-E0-63   (hex)		Samsung Electronics Co.,Ltd
+5C-86-5C   (hex)		Samsung Electronics Co.,Ltd
+00-3D-E8   (hex)		LG Electronics (Mobile Communications)
+08-E6-89   (hex)		Apple, Inc.
+10-C1-72   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+80-B5-75   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+08-D4-6A   (hex)		LG Electronics (Mobile Communications)
+E0-63-E5   (hex)		Sony Mobile Communications Inc
+B4-52-7D   (hex)		Sony Mobile Communications Inc
+68-76-4F   (hex)		Sony Mobile Communications Inc
+58-48-22   (hex)		Sony Mobile Communications Inc
+48-59-29   (hex)		LG Electronics (Mobile Communications)
+34-FC-EF   (hex)		LG Electronics (Mobile Communications)
+00-24-83   (hex)		LG Electronics (Mobile Communications)
+00-1C-62   (hex)		LG Electronics (Mobile Communications)
+58-3F-54   (hex)		LG Electronics (Mobile Communications)
+40-B0-FA   (hex)		LG Electronics (Mobile Communications)
+A8-92-2C   (hex)		LG Electronics (Mobile Communications)
+98-D6-F7   (hex)		LG Electronics (Mobile Communications)
+50-55-27   (hex)		LG Electronics (Mobile Communications)
+00-34-DA   (hex)		LG Electronics (Mobile Communications)
+A0-91-69   (hex)		LG Electronics (Mobile Communications)
+C8-63-F1   (hex)		Sony Interactive Entertainment Inc.
+88-36-5F   (hex)		LG Electronics (Mobile Communications)
+9C-8C-6E   (hex)		Samsung Electronics Co.,Ltd
+E4-F0-42   (hex)		Google, Inc.
+BC-FF-EB   (hex)		Motorola Mobility LLC, a Lenovo Company
+74-40-BB   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+68-5A-CF   (hex)		Samsung Electronics Co.,Ltd
+B4-F7-A1   (hex)		LG Electronics (Mobile Communications)
+78-58-60   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+B4-FB-F9   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+78-5D-C8   (hex)		LG Electronics
+48-C7-96   (hex)		Samsung Electronics Co.,Ltd
+80-4E-70   (hex)		Samsung Electronics Co.,Ltd
+AC-07-5F   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+38-80-DF   (hex)		Motorola Mobility LLC, a Lenovo Company
+3C-15-FB   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+F8-98-EF   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+14-09-DC   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+DC-41-5F   (hex)		Apple, Inc.
+30-63-6B   (hex)		Apple, Inc.
+F4-5C-89   (hex)		Apple, Inc.
+68-DB-CA   (hex)		Apple, Inc.
+04-4B-ED   (hex)		Apple, Inc.
+6C-8D-C1   (hex)		Apple, Inc.
+38-CA-DA   (hex)		Apple, Inc.
+A4-D1-8C   (hex)		Apple, Inc.
+18-65-90   (hex)		Apple, Inc.
+64-B0-A6   (hex)		Apple, Inc.
+84-FC-AC   (hex)		Apple, Inc.
+6C-19-C0   (hex)		Apple, Inc.
+20-AB-37   (hex)		Apple, Inc.
+20-3C-AE   (hex)		Apple, Inc.
+74-8D-08   (hex)		Apple, Inc.
+A0-3B-E3   (hex)		Apple, Inc.
+7C-6D-62   (hex)		Apple, Inc.
+40-D3-2D   (hex)		Apple, Inc.
+D8-30-62   (hex)		Apple, Inc.
+C4-2C-03   (hex)		Apple, Inc.
+7C-C5-37   (hex)		Apple, Inc.
+70-CD-60   (hex)		Apple, Inc.
+C0-D0-12   (hex)		Apple, Inc.
+D4-DC-CD   (hex)		Apple, Inc.
+48-4B-AA   (hex)		Apple, Inc.
+F8-03-77   (hex)		Apple, Inc.
+14-BD-61   (hex)		Apple, Inc.
+CC-25-EF   (hex)		Apple, Inc.
+B8-78-2E   (hex)		Apple, Inc.
+00-05-02   (hex)		Apple, Inc.
+00-10-FA   (hex)		Apple, Inc.
+00-03-93   (hex)		Apple, Inc.
+00-16-CB   (hex)		Apple, Inc.
+40-9C-28   (hex)		Apple, Inc.
+78-88-6D   (hex)		Apple, Inc.
+A8-5C-2C   (hex)		Apple, Inc.
+00-DB-70   (hex)		Apple, Inc.
+0C-51-01   (hex)		Apple, Inc.
+08-6D-41   (hex)		Apple, Inc.
+04-D3-CF   (hex)		Apple, Inc.
+BC-EC-5D   (hex)		Apple, Inc.
+80-B0-3D   (hex)		Apple, Inc.
+C8-3C-85   (hex)		Apple, Inc.
+A0-4E-A7   (hex)		Apple, Inc.
+00-17-F2   (hex)		Apple, Inc.
+00-1B-63   (hex)		Apple, Inc.
+00-1E-C2   (hex)		Apple, Inc.
+00-26-08   (hex)		Apple, Inc.
+A4-C3-61   (hex)		Apple, Inc.
+AC-7F-3E   (hex)		Apple, Inc.
+28-0B-5C   (hex)		Apple, Inc.
+90-B9-31   (hex)		Apple, Inc.
+24-A2-E1   (hex)		Apple, Inc.
+80-EA-96   (hex)		Apple, Inc.
+60-03-08   (hex)		Apple, Inc.
+04-F1-3E   (hex)		Apple, Inc.
+54-72-4F   (hex)		Apple, Inc.
+48-74-6E   (hex)		Apple, Inc.
+D4-F4-6F   (hex)		Apple, Inc.
+78-7E-61   (hex)		Apple, Inc.
+60-F8-1D   (hex)		Apple, Inc.
+4C-7C-5F   (hex)		Apple, Inc.
+48-E9-F1   (hex)		Apple, Inc.
+FC-E9-98   (hex)		Apple, Inc.
+F0-99-BF   (hex)		Apple, Inc.
+68-64-4B   (hex)		Apple, Inc.
+78-9F-70   (hex)		Apple, Inc.
+24-AB-81   (hex)		Apple, Inc.
+58-1F-AA   (hex)		Apple, Inc.
+A4-67-06   (hex)		Apple, Inc.
+3C-07-54   (hex)		Apple, Inc.
+E4-CE-8F   (hex)		Apple, Inc.
+E8-04-0B   (hex)		Apple, Inc.
+B8-C7-5D   (hex)		Apple, Inc.
+40-3C-FC   (hex)		Apple, Inc.
+98-FE-94   (hex)		Apple, Inc.
+D8-00-4D   (hex)		Apple, Inc.
+98-B8-E3   (hex)		Apple, Inc.
+80-92-9F   (hex)		Apple, Inc.
+88-53-95   (hex)		Apple, Inc.
+9C-04-EB   (hex)		Apple, Inc.
+A8-96-8A   (hex)		Apple, Inc.
+DC-37-14   (hex)		Apple, Inc.
+40-33-1A   (hex)		Apple, Inc.
+94-F6-A3   (hex)		Apple, Inc.
+D8-1D-72   (hex)		Apple, Inc.
+70-EC-E4   (hex)		Apple, Inc.
+38-C9-86   (hex)		Apple, Inc.
+FC-FC-48   (hex)		Apple, Inc.
+4C-8D-79   (hex)		Apple, Inc.
+20-7D-74   (hex)		Apple, Inc.
+F4-F1-5A   (hex)		Apple, Inc.
+04-26-65   (hex)		Apple, Inc.
+2C-B4-3A   (hex)		Apple, Inc.
+68-9C-70   (hex)		Apple, Inc.
+08-70-45   (hex)		Apple, Inc.
+3C-AB-8E   (hex)		Apple, Inc.
+7C-6D-F8   (hex)		Apple, Inc.
+48-D7-05   (hex)		Apple, Inc.
+78-FD-94   (hex)		Apple, Inc.
+C8-85-50   (hex)		Apple, Inc.
+28-6A-B8   (hex)		Apple, Inc.
+7C-C3-A1   (hex)		Apple, Inc.
+3C-D0-F8   (hex)		Apple, Inc.
+98-D6-BB   (hex)		Apple, Inc.
+4C-B1-99   (hex)		Apple, Inc.
+64-E6-82   (hex)		Apple, Inc.
+80-49-71   (hex)		Apple, Inc.
+CC-20-E8   (hex)		Apple, Inc.
+20-9B-CD   (hex)		Apple, Inc.
+F0-B0-E7   (hex)		Apple, Inc.
+A0-56-F3   (hex)		Apple, Inc.
+54-99-63   (hex)		Apple, Inc.
+28-FF-3C   (hex)		Apple, Inc.
+10-94-BB   (hex)		Apple, Inc.
+F0-18-98   (hex)		Apple, Inc.
+48-A9-1C   (hex)		Apple, Inc.
+EC-8C-9A   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+B4-86-55   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+58-B1-0F   (hex)		Samsung Electronics Co.,Ltd
+6C-0E-0D   (hex)		Sony Mobile Communications Inc
+00-24-EF   (hex)		Sony Mobile Communications Inc
+00-22-98   (hex)		Sony Mobile Communications Inc
+00-1F-E4   (hex)		Sony Mobile Communications Inc
+00-1D-28   (hex)		Sony Mobile Communications Inc
+00-16-B8   (hex)		Sony Mobile Communications Inc
+00-1A-75   (hex)		Sony Mobile Communications Inc
+00-0E-07   (hex)		Sony Mobile Communications Inc
+38-78-62   (hex)		Sony Mobile Communications Inc
+40-EE-DD   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+00-51-ED   (hex)		LG Innotek
+AC-92-32   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+34-12-F9   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+4C-D1-A1   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+30-4B-07   (hex)		Motorola Mobility LLC, a Lenovo Company
+14-96-E5   (hex)		Samsung Electronics Co.,Ltd
+80-CE-B9   (hex)		Samsung Electronics Co.,Ltd
+CC-21-19   (hex)		Samsung Electronics Co.,Ltd
+00-57-C1   (hex)		LG Electronics (Mobile Communications)
+DC-16-B2   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+DC-90-88   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+FC-03-9F   (hex)		Samsung Electronics Co.,Ltd
+E4-DB-6D   (hex)		Beijing Xiaomi Electronics Co., Ltd.
+00-72-04   (hex)		Samsung Electronics Co., Ltd. ARTIK
+90-E1-7B   (hex)		Apple, Inc.
+18-81-0E   (hex)		Apple, Inc.
+60-8C-4A   (hex)		Apple, Inc.
+A4-D9-31   (hex)		Apple, Inc.
+70-19-2F   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+70-D3-13   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+F0-63-F9   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+9C-1D-36   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+44-07-0B   (hex)		Google, Inc.
+B8-78-26   (hex)		Nintendo Co.,Ltd
+6C-C7-EC   (hex)		SAMSUNG ELECTRO-MECHANICS(THAILAND)
+64-7B-CE   (hex)		Samsung Electronics Co.,Ltd
+58-44-98   (hex)		Xiaomi Communications Co Ltd
+AC-C1-EE   (hex)		Xiaomi Communications Co Ltd
+78-02-F8   (hex)		Xiaomi Communications Co Ltd
+50-8F-4C   (hex)		Xiaomi Communications Co Ltd
+04-D1-3A   (hex)		Xiaomi Communications Co Ltd
+0C-F3-46   (hex)		Xiaomi Communications Co Ltd
+08-25-25   (hex)		Xiaomi Communications Co Ltd
+F4-60-E2   (hex)		Xiaomi Communications Co Ltd
+A4-50-46   (hex)		Xiaomi Communications Co Ltd
+00-9E-C8   (hex)		Xiaomi Communications Co Ltd
+7C-1D-D9   (hex)		Xiaomi Communications Co Ltd
+A0-86-C6   (hex)		Xiaomi Communications Co Ltd
+10-2A-B3   (hex)		Xiaomi Communications Co Ltd
+AC-F7-F3   (hex)		Xiaomi Communications Co Ltd
+60-1D-91   (hex)		Motorola Mobility LLC, a Lenovo Company
+5C-CF-7F   (hex)		Espressif Inc.
+38-F9-D3   (hex)		Apple, Inc.
+44-E6-6E   (hex)		Apple, Inc.
+E8-36-17   (hex)		Apple, Inc.
+34-42-62   (hex)		Apple, Inc.
+C0-9A-D0   (hex)		Apple, Inc.
+B8-BC-5B   (hex)		Samsung Electronics Co.,Ltd
+94-D0-0D   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+50-A0-A4   (hex)		Nokia
+FC-2F-AA   (hex)		Nokia
+28-6C-07   (hex)		XIAOMI Electronics,CO.,LTD
+7C-41-A2   (hex)		Nokia
+20-E0-9C   (hex)		Nokia
+40-7C-7D   (hex)		Nokia
+90-3A-A0   (hex)		Nokia
+70-25-26   (hex)		Nokia
+BC-52-B4   (hex)		Nokia
+90-21-55   (hex)		HTC Corporation
+64-A7-69   (hex)		HTC Corporation
+BC-CF-CC   (hex)		HTC Corporation
+7C-7D-3D   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+44-82-E5   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+54-27-58   (hex)		Motorola (Wuhan) Mobility Technologies Communication Co., Ltd.
+B0-5B-67   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+38-F8-89   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+F4-DC-F9   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+90-4E-2B   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+0C-96-BF   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+9C-C1-72   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+70-A8-E3   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+F8-4A-BF   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+4C-B1-6C   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+4C-1F-CC   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+48-62-76   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+AC-4E-91   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+E4-68-A3   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+80-D0-9B   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+58-1F-28   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+8C-34-FD   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+90-67-1C   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+58-7F-66   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+BC-25-E0   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+C4-07-2F   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+0C-D6-BD   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+A4-99-47   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+34-6B-D3   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+1C-1D-67   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+84-A8-E4   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+20-2B-C1   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+10-51-72   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+90-17-AC   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+94-04-9C   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+68-A8-28   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+A4-DC-BE   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+68-89-C1   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+84-5B-12   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+D4-F9-A1   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+5C-B4-3E   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+C4-36-6C   (hex)		LG Innotek
+E8-15-0E   (hex)		Nokia Corporation
+D4-93-98   (hex)		Nokia Corporation
+EC-2E-4E   (hex)		HITACHI-LG DATA STORAGE INC
+78-92-3E   (hex)		Nokia Corporation
+DC-3E-F8   (hex)		Nokia Corporation
+C0-64-C6   (hex)		Nokia Corporation
+2C-5A-05   (hex)		Nokia Corporation
+98-57-D3   (hex)		HON HAI-CCPBG  PRECISION IND.CO.,LTD.
+B0-35-8D   (hex)		Nokia Corporation
+3C-36-3D   (hex)		Nokia Corporation
+D0-DB-32   (hex)		Nokia Corporation
+A4-E7-31   (hex)		Nokia Corporation
+3C-E6-24   (hex)		LG Display 
+14-36-05   (hex)		Nokia Corporation
+04-A8-2A   (hex)		Nokia Corporation
+78-2E-EF   (hex)		Nokia Corporation
+D4-5D-42   (hex)		Nokia Corporation
+D8-2A-7E   (hex)		Nokia Corporation
+D4-CB-AF   (hex)		Nokia Corporation
+D8-75-33   (hex)		Nokia Corporation
+00-12-56   (hex)		LG INFORMATION & COMM.
+00-50-CE   (hex)		LG INTERNATIONAL CORP.
+00-00-95   (hex)		SONY TEKTRONIX CORP.
+F8-E0-79   (hex)		Motorola Mobility LLC, a Lenovo Company
+14-30-C6   (hex)		Motorola Mobility LLC, a Lenovo Company
+E0-75-7D   (hex)		Motorola Mobility LLC, a Lenovo Company
+00-01-4A   (hex)		Sony Corporation
+04-FE-8D   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+48-00-31   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+9C-D3-5B   (hex)		Samsung Electronics Co.,Ltd
+60-AF-6D   (hex)		Samsung Electronics Co.,Ltd
+B8-5A-73   (hex)		Samsung Electronics Co.,Ltd
+10-30-47   (hex)		Samsung Electronics Co.,Ltd
+10-92-66   (hex)		Samsung Electronics Co.,Ltd
+B0-47-BF   (hex)		Samsung Electronics Co.,Ltd
+7C-0B-C6   (hex)		Samsung Electronics Co.,Ltd
+80-4E-81   (hex)		Samsung Electronics Co.,Ltd
+24-4B-81   (hex)		Samsung Electronics Co.,Ltd
+50-A4-C8   (hex)		Samsung Electronics Co.,Ltd
+84-25-DB   (hex)		Samsung Electronics Co.,Ltd
+D8-C4-E9   (hex)		Samsung Electronics Co.,Ltd
+50-C8-E5   (hex)		Samsung Electronics Co.,Ltd
+44-6D-6C   (hex)		Samsung Electronics Co.,Ltd
+38-D4-0B   (hex)		Samsung Electronics Co.,Ltd
+64-77-91   (hex)		Samsung Electronics Co.,Ltd
+78-1F-DB   (hex)		Samsung Electronics Co.,Ltd
+08-FC-88   (hex)		Samsung Electronics Co.,Ltd
+30-C7-AE   (hex)		Samsung Electronics Co.,Ltd
+18-22-7E   (hex)		Samsung Electronics Co.,Ltd
+00-F4-6F   (hex)		Samsung Electronics Co.,Ltd
+9C-E6-E7   (hex)		Samsung Electronics Co.,Ltd
+2C-10-C1   (hex)		Nintendo Co., Ltd.
+CC-FB-65   (hex)		Nintendo Co., Ltd.
+40-D2-8A   (hex)		Nintendo Co., Ltd.
+7C-BB-8A   (hex)		Nintendo Co., Ltd.
+00-22-4C   (hex)		Nintendo Co., Ltd.
+00-23-CC   (hex)		Nintendo Co., Ltd.
+00-24-44   (hex)		Nintendo Co., Ltd.
+E0-E7-51   (hex)		Nintendo Co., Ltd.
+00-17-AB   (hex)		Nintendo Co., Ltd.
+00-1B-EA   (hex)		Nintendo Co., Ltd.
+00-15-DE   (hex)		Nokia Danmark A/S
+00-13-70   (hex)		Nokia Danmark A/S
+00-24-7C   (hex)		Nokia Danmark A/S
+00-23-B4   (hex)		Nokia Danmark A/S
+00-21-AB   (hex)		Nokia Danmark A/S
+00-1F-DF   (hex)		Nokia Danmark A/S
+00-19-4F   (hex)		Nokia Danmark A/S
+00-18-8D   (hex)		Nokia Danmark A/S
+00-18-0F   (hex)		Nokia Danmark A/S
+54-79-75   (hex)		Nokia Corporation
+2C-CC-15   (hex)		Nokia Corporation
+00-BD-3A   (hex)		Nokia Corporation
+00-26-CC   (hex)		Nokia Danmark A/S
+00-16-4E   (hex)		Nokia Danmark A/S
+00-16-BC   (hex)		Nokia Danmark A/S
+00-1A-DC   (hex)		Nokia Danmark A/S
+00-26-68   (hex)		Nokia Danmark A/S
+00-1F-5C   (hex)		Nokia Danmark A/S
+00-1F-00   (hex)		Nokia Danmark A/S
+00-1E-3B   (hex)		Nokia Danmark A/S
+A0-4E-04   (hex)		Nokia Corporation
+98-E7-F5   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+24-BC-F8   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+FC-3F-7C   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+60-83-34   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+84-AD-58   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+50-68-0A   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+60-08-10   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+70-28-8B   (hex)		Samsung Electronics Co.,Ltd
+00-26-F1   (hex)		ProCurve Networking by HP
+B4-39-D6   (hex)		ProCurve Networking by HP
+48-49-C7   (hex)		Samsung Electronics Co.,Ltd
+20-5E-F7   (hex)		Samsung Electronics Co.,Ltd
+AC-61-75   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+18-26-66   (hex)		Samsung Electronics Co.,Ltd
+C0-65-99   (hex)		Samsung Electronics Co.,Ltd
+CC-07-AB   (hex)		Samsung Electronics Co.,Ltd
+E8-4E-84   (hex)		Samsung Electronics Co.,Ltd
+50-FC-9F   (hex)		Samsung Electronics Co.,Ltd
+E4-32-CB   (hex)		Samsung Electronics Co.,Ltd
+88-9B-39   (hex)		Samsung Electronics Co.,Ltd
+BC-B1-F3   (hex)		Samsung Electronics Co.,Ltd
+38-EC-E4   (hex)		Samsung Electronics Co.,Ltd
+CC-F9-E8   (hex)		Samsung Electronics Co.,Ltd
+F0-E7-7E   (hex)		Samsung Electronics Co.,Ltd
+5C-E8-EB   (hex)		Samsung Electronics Co.,Ltd
+B8-D9-CE   (hex)		Samsung Electronics Co.,Ltd
+70-F9-27   (hex)		Samsung Electronics Co.,Ltd
+30-19-66   (hex)		Samsung Electronics Co.,Ltd
+28-BA-B5   (hex)		Samsung Electronics Co.,Ltd
+10-3B-59   (hex)		Samsung Electronics Co.,Ltd
+6C-B7-F4   (hex)		Samsung Electronics Co.,Ltd
+00-1E-E1   (hex)		Samsung Electronics Co.,Ltd
+00-18-AF   (hex)		Samsung Electronics Co.,Ltd
+BC-72-B1   (hex)		Samsung Electronics Co.,Ltd
+78-F7-BE   (hex)		Samsung Electronics Co.,Ltd
+F4-9F-54   (hex)		Samsung Electronics Co.,Ltd
+7C-11-CB   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+A4-CA-A0   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+00-21-4C   (hex)		Samsung Electronics Co.,Ltd
+00-16-32   (hex)		Samsung Electronics Co.,Ltd
+D0-66-7B   (hex)		Samsung Electronics Co.,Ltd
+38-AA-3C   (hex)		SAMSUNG ELECTRO MECHANICS CO., LTD.
+20-64-32   (hex)		SAMSUNG ELECTRO MECHANICS CO., LTD.
+00-26-37   (hex)		SAMSUNG ELECTRO MECHANICS CO., LTD.
+00-13-77   (hex)		Samsung Electronics Co.,Ltd
+50-B7-C3   (hex)		Samsung Electronics Co.,Ltd
+80-18-A7   (hex)		Samsung Electronics Co.,Ltd
+5C-A3-9D   (hex)		SAMSUNG ELECTRO MECHANICS CO., LTD.
+D8-5D-E2   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+70-77-81   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+60-6D-C7   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+68-14-01   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+00-71-CC   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+F8-66-D1   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+F8-0D-43   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+00-22-68   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+00-1F-E1   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+00-25-56   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+00-26-5C   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+90-CD-B6   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+00-1E-4C   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+F8-DA-0C   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+90-34-FC   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+90-6E-BB   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+34-23-87   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+68-94-23   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+B8-76-3F   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+1C-3E-84   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+C0-18-85   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+78-59-68   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+1C-66-6D   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+CC-AF-78   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+90-4C-E5   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+B0-10-41   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+44-4E-1A   (hex)		Samsung Electronics Co.,Ltd
+E8-E5-D6   (hex)		Samsung Electronics Co.,Ltd
+54-92-BE   (hex)		Samsung Electronics Co.,Ltd
+10-1D-C0   (hex)		Samsung Electronics Co.,Ltd
+00-21-D1   (hex)		Samsung Electronics Co.,Ltd
+6C-EC-5A   (hex)		Hon Hai Precision Ind. CO.,Ltd.
+50-01-D9   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+44-C3-46   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+88-44-77   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+04-75-03   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+B0-52-16   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+88-66-39   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+00-24-8D   (hex)		Sony Interactive Entertainment Inc.
+CC-2D-8C   (hex)		LG ELECTRONICS INC
+A4-71-74   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+D4-A1-48   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+D0-65-CA   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+8C-EB-C6   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+B8-08-D7   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+FC-F1-52   (hex)		Sony Corporation
+D8-4F-B8   (hex)		LG ELECTRONICS
+20-DB-AB   (hex)		Samsung Electronics Co., Ltd.
+5C-99-60   (hex)		Samsung Electronics Co.,Ltd
+88-B4-A6   (hex)		Motorola Mobility LLC, a Lenovo Company
+5C-70-A3   (hex)		LG Electronics (Mobile Communications)
+10-F9-6F   (hex)		LG Electronics (Mobile Communications)
+F0-1C-13   (hex)		LG Electronics (Mobile Communications)
+00-AA-70   (hex)		LG Electronics (Mobile Communications)
+BC-F5-AC   (hex)		LG Electronics (Mobile Communications)
+CC-FA-00   (hex)		LG Electronics (Mobile Communications)
+F8-A9-D0   (hex)		LG Electronics (Mobile Communications)
+80-5A-04   (hex)		LG Electronics (Mobile Communications)
+5C-AF-06   (hex)		LG Electronics (Mobile Communications)
+B8-1D-AA   (hex)		LG Electronics (Mobile Communications)
+10-F1-F2   (hex)		LG Electronics (Mobile Communications)
+00-25-E5   (hex)		LG Electronics (Mobile Communications)
+00-22-A9   (hex)		LG Electronics (Mobile Communications)
+C4-9A-02   (hex)		LG Electronics (Mobile Communications)
+34-4D-F7   (hex)		LG Electronics (Mobile Communications)
+5C-52-1E   (hex)		Nintendo Co.,Ltd
+CC-6E-A4   (hex)		Samsung Electronics Co.,Ltd
+20-DF-B9   (hex)		Google, Inc.
+A4-6C-F1   (hex)		Samsung Electronics Co.,Ltd
+0C-A8-A7   (hex)		Samsung Electronics Co.,Ltd
+54-B8-02   (hex)		Samsung Electronics Co.,Ltd
+24-18-1D   (hex)		SAMSUNG ELECTRO-MECHANICS(THAILAND)
+AC-F9-70   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+0C-41-E9   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+58-D7-59   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+F4-C2-48   (hex)		Samsung Electronics Co.,Ltd
+A8-51-5B   (hex)		Samsung Electronics Co.,Ltd
+60-6B-FF   (hex)		Nintendo Co.,Ltd
+F0-0F-EC   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+0C-70-4A   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+C0-48-E6   (hex)		Samsung Electronics Co.,Ltd
+D0-77-14   (hex)		Motorola Mobility LLC, a Lenovo Company
+A4-93-3F   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+88-11-96   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+A8-F5-AC   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+50-5D-AC   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+84-A1-34   (hex)		Apple, Inc.
+1C-91-48   (hex)		Apple, Inc.
+C0-CC-F8   (hex)		Apple, Inc.
+80-ED-2C   (hex)		Apple, Inc.
+E8-B2-AC   (hex)		Apple, Inc.
+84-89-AD   (hex)		Apple, Inc.
+20-76-8F   (hex)		Apple, Inc.
+28-ED-6A   (hex)		Apple, Inc.
+34-AB-37   (hex)		Apple, Inc.
+60-A3-7D   (hex)		Apple, Inc.
+00-56-CD   (hex)		Apple, Inc.
+BC-A9-20   (hex)		Apple, Inc.
+50-82-D5   (hex)		Apple, Inc.
+9C-84-BF   (hex)		Apple, Inc.
+00-B3-62   (hex)		Apple, Inc.
+F8-62-14   (hex)		Apple, Inc.
+B0-70-2D   (hex)		Apple, Inc.
+D0-C5-F3   (hex)		Apple, Inc.
+00-23-DF   (hex)		Apple, Inc.
+00-25-BC   (hex)		Apple, Inc.
+00-26-4A   (hex)		Apple, Inc.
+00-26-B0   (hex)		Apple, Inc.
+04-1E-64   (hex)		Apple, Inc.
+D4-9A-20   (hex)		Apple, Inc.
+90-27-E4   (hex)		Apple, Inc.
+60-33-4B   (hex)		Apple, Inc.
+5C-59-48   (hex)		Apple, Inc.
+60-F4-45   (hex)		Apple, Inc.
+5C-F7-E6   (hex)		Apple, Inc.
+A0-D7-95   (hex)		Apple, Inc.
+CC-08-8D   (hex)		Apple, Inc.
+8C-8E-F2   (hex)		Apple, Inc.
+F4-0F-24   (hex)		Apple, Inc.
+24-F6-77   (hex)		Apple, Inc.
+78-67-D7   (hex)		Apple, Inc.
+54-33-CB   (hex)		Apple, Inc.
+D0-D2-B0   (hex)		Apple, Inc.
+D8-8F-76   (hex)		Apple, Inc.
+3C-2E-F9   (hex)		Apple, Inc.
+70-81-EB   (hex)		Apple, Inc.
+08-66-98   (hex)		Apple, Inc.
+90-60-F1   (hex)		Apple, Inc.
+74-1B-B2   (hex)		Apple, Inc.
+28-CF-E9   (hex)		Apple, Inc.
+E4-25-E7   (hex)		Apple, Inc.
+B0-19-C6   (hex)		Apple, Inc.
+58-E2-8F   (hex)		Apple, Inc.
+AC-1F-74   (hex)		Apple, Inc.
+48-BF-6B   (hex)		Apple, Inc.
+24-5B-A7   (hex)		Apple, Inc.
+DC-56-E7   (hex)		Apple, Inc.
+34-7C-25   (hex)		Apple, Inc.
+D4-90-9C   (hex)		Apple, Inc.
+08-00-07   (hex)		Apple, Inc.
+00-0A-95   (hex)		Apple, Inc.
+00-22-41   (hex)		Apple, Inc.
+18-EE-69   (hex)		Apple, Inc.
+74-81-14   (hex)		Apple, Inc.
+18-F6-43   (hex)		Apple, Inc.
+D0-A6-37   (hex)		Apple, Inc.
+A0-18-28   (hex)		Apple, Inc.
+D0-03-4B   (hex)		Apple, Inc.
+A4-31-35   (hex)		Apple, Inc.
+9C-35-EB   (hex)		Apple, Inc.
+50-7A-55   (hex)		Apple, Inc.
+A0-99-9B   (hex)		Apple, Inc.
+24-24-0E   (hex)		Apple, Inc.
+90-3C-92   (hex)		Apple, Inc.
+A8-8E-24   (hex)		Apple, Inc.
+E8-80-2E   (hex)		Apple, Inc.
+68-AE-20   (hex)		Apple, Inc.
+E0-B5-2D   (hex)		Apple, Inc.
+80-BE-05   (hex)		Apple, Inc.
+D8-BB-2C   (hex)		Apple, Inc.
+D0-4F-7E   (hex)		Apple, Inc.
+2C-1F-23   (hex)		Apple, Inc.
+54-9F-13   (hex)		Apple, Inc.
+B8-09-8A   (hex)		Apple, Inc.
+F0-DB-E2   (hex)		Apple, Inc.
+8C-29-37   (hex)		Apple, Inc.
+DC-9B-9C   (hex)		Apple, Inc.
+98-F0-AB   (hex)		Apple, Inc.
+F0-DB-F8   (hex)		Apple, Inc.
+AC-CF-5C   (hex)		Apple, Inc.
+3C-15-C2   (hex)		Apple, Inc.
+04-48-9A   (hex)		Apple, Inc.
+D8-CF-9C   (hex)		Apple, Inc.
+A8-86-DD   (hex)		Apple, Inc.
+54-EA-A8   (hex)		Apple, Inc.
+E4-C6-3D   (hex)		Apple, Inc.
+84-38-35   (hex)		Apple, Inc.
+C0-63-94   (hex)		Apple, Inc.
+8C-00-6D   (hex)		Apple, Inc.
+B0-9F-BA   (hex)		Apple, Inc.
+DC-86-D8   (hex)		Apple, Inc.
+78-CA-39   (hex)		Apple, Inc.
+18-E7-F4   (hex)		Apple, Inc.
+B8-FF-61   (hex)		Apple, Inc.
+DC-2B-61   (hex)		Apple, Inc.
+10-93-E9   (hex)		Apple, Inc.
+44-2A-60   (hex)		Apple, Inc.
+E0-F8-47   (hex)		Apple, Inc.
+14-5A-05   (hex)		Apple, Inc.
+28-CF-DA   (hex)		Apple, Inc.
+14-8F-C6   (hex)		Apple, Inc.
+28-37-37   (hex)		Apple, Inc.
+04-54-53   (hex)		Apple, Inc.
+F0-CB-A1   (hex)		Apple, Inc.
+30-F7-C5   (hex)		Apple, Inc.
+00-88-65   (hex)		Apple, Inc.
+40-B3-95   (hex)		Apple, Inc.
+30-90-AB   (hex)		Apple, Inc.
+1C-E6-2B   (hex)		Apple, Inc.
+A0-ED-CD   (hex)		Apple, Inc.
+84-29-99   (hex)		Apple, Inc.
+74-E2-F5   (hex)		Apple, Inc.
+20-C9-D0   (hex)		Apple, Inc.
+70-73-CB   (hex)		Apple, Inc.
+9C-20-7B   (hex)		Apple, Inc.
+34-12-98   (hex)		Apple, Inc.
+9C-29-3F   (hex)		Apple, Inc.
+7C-01-91   (hex)		Apple, Inc.
+70-48-0F   (hex)		Apple, Inc.
+A4-B8-05   (hex)		Apple, Inc.
+58-7F-57   (hex)		Apple, Inc.
+80-D6-05   (hex)		Apple, Inc.
+C8-69-CD   (hex)		Apple, Inc.
+BC-6C-21   (hex)		Apple, Inc.
+04-69-F8   (hex)		Apple, Inc.
+74-9E-AF   (hex)		Apple, Inc.
+B8-41-A4   (hex)		Apple, Inc.
+F8-95-EA   (hex)		Apple, Inc.
+50-A6-7F   (hex)		Apple, Inc.
+64-70-33   (hex)		Apple, Inc.
+84-68-78   (hex)		Apple, Inc.
+40-7D-0F   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+94-8B-C1   (hex)		Samsung Electronics Co.,Ltd
+48-27-EA   (hex)		Samsung Electronics Co.,Ltd
+3C-67-8C   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+D0-6F-82   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+84-47-65   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+38-8C-50   (hex)		LG Electronics
+40-16-3B   (hex)		Samsung Electronics Co.,Ltd
+5C-49-7D   (hex)		Samsung Electronics Co.,Ltd
+E4-7D-BD   (hex)		Samsung Electronics Co.,Ltd
+50-3D-A1   (hex)		Samsung Electronics Co.,Ltd
+50-85-69   (hex)		Samsung Electronics Co.,Ltd
+10-77-B1   (hex)		Samsung Electronics Co.,Ltd
+5C-F6-DC   (hex)		Samsung Electronics Co.,Ltd
+38-01-95   (hex)		Samsung Electronics Co.,Ltd
+BC-14-85   (hex)		Samsung Electronics Co.,Ltd
+94-7B-E7   (hex)		Samsung Electronics Co.,Ltd
+54-BD-79   (hex)		Samsung Electronics Co.,Ltd
+D8-6C-63   (hex)		Google, Inc.
+DC-44-B6   (hex)		Samsung Electronics Co.,Ltd
+10-07-B6   (hex)		Samsung Electronics Co.,Ltd
+F4-93-9F   (hex)		Hon Hai Precision Ind. Co., Ltd.
+3C-78-43   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+30-38-55   (hex)		Nokia Corporation
+FC-E5-57   (hex)		Nokia Corporation
+9C-30-5B   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+BC-3D-85   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+B0-E1-7E   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+74-D2-1D   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+C0-17-4D   (hex)		Samsung Electronics Co.,Ltd
+A4-07-B6   (hex)		Samsung Electronics Co.,Ltd
+14-9F-3C   (hex)		Samsung Electronics Co.,Ltd
+7C-1C-4E   (hex)		LG Innotek
+74-C1-4F   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+A8-CA-B9   (hex)		SAMSUNG ELECTRO MECHANICS CO., LTD.
+D8-68-C3   (hex)		Samsung Electronics Co.,Ltd
+C4-93-D9   (hex)		Samsung Electronics Co.,Ltd
+9C-5C-F9   (hex)		Sony Mobile Communications Inc
+D4-38-9C   (hex)		Sony Mobile Communications Inc
+5C-B5-24   (hex)		Sony Mobile Communications Inc
+84-00-D2   (hex)		Sony Mobile Communications Inc
+90-C1-15   (hex)		Sony Mobile Communications Inc
+8C-64-22   (hex)		Sony Mobile Communications Inc
+B4-52-7E   (hex)		Sony Mobile Communications Inc
+44-D4-E0   (hex)		Sony Mobile Communications Inc
+84-8E-DF   (hex)		Sony Mobile Communications Inc
+00-23-45   (hex)		Sony Mobile Communications Inc
+00-1C-A4   (hex)		Sony Mobile Communications Inc
+8C-6D-77   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+AC-75-1D   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+40-A1-08   (hex)		Motorola (Wuhan) Mobility Technologies Communication Co., Ltd.
+34-79-16   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+88-BF-E4   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+24-05-88   (hex)		Google, Inc.
+00-B5-D0   (hex)		Samsung Electronics Co.,Ltd
+8C-83-E1   (hex)		Samsung Electronics Co.,Ltd
+A4-9B-4F   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+EC-C4-0D   (hex)		Nintendo Co.,Ltd
+B0-2A-43   (hex)		Google, Inc.
+CC-98-8B   (hex)		SONY Visual Products Inc.
+FC-B6-D8   (hex)		Apple, Inc.
+6C-E8-5C   (hex)		Apple, Inc.
+00-7C-2D   (hex)		Samsung Electronics Co.,Ltd
+F4-7D-EF   (hex)		Samsung Electronics Co.,Ltd
+7C-8B-B5   (hex)		Samsung Electronics Co.,Ltd
+DC-F7-56   (hex)		Samsung Electronics Co.,Ltd
+64-F8-1C   (hex)		Huawei Technologies Co., Ltd.
+68-DF-DD   (hex)		Xiaomi Communications Co Ltd
+64-B4-73   (hex)		Xiaomi Communications Co Ltd
+74-51-BA   (hex)		Xiaomi Communications Co Ltd
+34-80-B3   (hex)		Xiaomi Communications Co Ltd
+20-82-C0   (hex)		Xiaomi Communications Co Ltd
+FC-64-BA   (hex)		Xiaomi Communications Co Ltd
+C4-6A-B7   (hex)		Xiaomi Communications Co Ltd
+00-EC-0A   (hex)		Xiaomi Communications Co Ltd
+38-E6-0A   (hex)		Xiaomi Communications Co Ltd
+04-E5-98   (hex)		Xiaomi Communications Co Ltd
+3C-8D-20   (hex)		Google, Inc.
+24-B2-DE   (hex)		Espressif Inc.
+68-C6-3A   (hex)		Espressif Inc.
+CC-50-E3   (hex)		Espressif Inc.
+C4-4F-33   (hex)		Espressif Inc.
+AC-D0-74   (hex)		Espressif Inc.
+30-AE-A4   (hex)		Espressif Inc.
+58-6B-14   (hex)		Apple, Inc.
+94-B0-1F   (hex)		Apple, Inc.
+94-F6-D6   (hex)		Apple, Inc.
+40-BC-60   (hex)		Apple, Inc.
+3C-28-6D   (hex)		Google, Inc.
+C8-C2-FA   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+50-64-2B   (hex)		XIAOMI Electronics,CO.,LTD
+78-11-DC   (hex)		XIAOMI Electronics,CO.,LTD
+34-CE-00   (hex)		XIAOMI Electronics,CO.,LTD
+30-FE-31   (hex)		Nokia
+8C-90-D3   (hex)		Nokia
+34-AA-99   (hex)		Nokia
+C4-08-4A   (hex)		Nokia
+24-21-24   (hex)		Nokia
+0C-54-B9   (hex)		Nokia
