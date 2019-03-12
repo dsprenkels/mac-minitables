@@ -5,7 +5,7 @@ anonymity. I.e. the hashing of MAC-addresses is easily reversible.
 
 ## Usage
 
-```
+```shell
 # Clone the repository
 git clone https://github.com/dsprenkels/mac-minitables.git
 
