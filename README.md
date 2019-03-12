@@ -1,4 +1,4 @@
-# mac-minitables
+# mac-minitables [![Build Status](https://travis-ci.org/dsprenkels/mac-minitables.svg?branch=master)](https://travis-ci.org/dsprenkels/mac-minitables)
 
 This project is a small proof-of-concept, showing why hashing MAC-addresses does not provide
 anonymity. I.e. the hashing of MAC-addresses is easily reversible.
