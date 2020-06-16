@@ -16,7 +16,7 @@ lazy_static = "1"
 log = "0.4"
 quick-error = "1.2"
 regex = "1"
-sha2 = "0.8"
+sha2 = "0.9"
 
 [dependencies.clap]
 version = "2"
