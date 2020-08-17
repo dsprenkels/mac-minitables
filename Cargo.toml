@@ -14,7 +14,7 @@ opt-level = 2
 env_logger = "0.7"
 lazy_static = "1"
 log = "0.4"
-quick-error = "1.2"
+quick-error = "2.0"
 regex = "1"
 sha2 = "0.8"
 
