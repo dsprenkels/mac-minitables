@@ -2,7 +2,7 @@ use std::fmt;
 use std::io;
 use std::io::prelude::*;
 
-use sha2::{Digest, Sha256};
+use sha2::{Digest, digest::FixedOutput, Sha256};
 
 const TABLE_SIZE: usize = 0x100_0000;
 const FILE_INDEX_LEN: u64 = 0x30000;
@@ -121,7 +121,7 @@ impl MACAddress {
 
 type MemTable = Vec<(u16, MACAddress)>;
 
-pub fn compute(prefix: &[u8; 3], writer: &mut Write) -> io::Result<()> {
+pub fn compute(prefix: &[u8; 3], writer: &mut dyn Write) -> io::Result<()> {
     let memtable = compute_memtable(prefix);
     write_memtable(&memtable, writer)
 }
@@ -135,8 +135,8 @@ fn compute_memtable(prefix: &[u8; 3]) -> MemTable {
     let mut memtable = Vec::with_capacity(TABLE_SIZE);
     for idx in 0..2_u64.pow(24) {
         let preimage = MACAddress::from(prefix_val | idx);
-        hasher.input(preimage.into_array());
-        let hash = hasher.result_reset();
+        hasher.update(preimage.into_array());
+        let hash = hasher.finalize_fixed_reset();
         let first_hash_word = (u16::from(hash[0]) << 8) | u16::from(hash[1]);
         memtable.push((first_hash_word, preimage));
     }
@@ -144,7 +144,7 @@ fn compute_memtable(prefix: &[u8; 3]) -> MemTable {
     memtable
 }
 
-fn write_memtable(table: &[(u16, MACAddress)], w: &mut Write) -> io::Result<()> {
+fn write_memtable(table: &[(u16, MACAddress)], w: &mut dyn Write) -> io::Result<()> {
     assert_eq!(table.len(), 2_usize.pow(24));
     let prefix = table[0].1.prefix();
     for (_, addr) in table {
@@ -212,8 +212,8 @@ where
     for _ in 0..(end_idx - start_idx) {
         table.read_exact(&mut buf)?;
         let addr = MACAddress::from((prefix, &buf));
-        hasher.input(addr.into_array());
-        let addr_hash = hasher.result_reset();
+        hasher.update(addr.into_array());
+        let addr_hash = hasher.finalize_fixed_reset();
         if hash == &addr_hash[..] {
             return Ok(Some(addr));
         }
@@ -295,8 +295,8 @@ mod tests {
                 let mut cursor = io::Cursor::new(&*TABLE);
                 let addr = MACAddress::from((&*PREFIX, &suffix));
                 let mut hasher = Sha256::new();
-                hasher.input(addr.into_array());
-                let hash = hasher.result_reset();
+                hasher.update(addr.into_array());
+                let hash = hasher.finalize_fixed_reset();
                 let preimage = lookup(&hash, &*PREFIX, &mut cursor).unwrap();
                 preimage == Some(addr)
             }

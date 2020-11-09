@@ -48,9 +48,9 @@ fn prefix_to_filename(prefix: &[u8; 3]) -> std::ffi::OsString {
 ///
 /// If filename is "-", the prefixes are read from stdin. Provide "./-" to this function if you
 /// want to read from the "-" file in the current directory.
-fn load_prefixes(filename: &std::ffi::OsStr) -> Result<Vec<[u8; 3]>, Box<std::error::Error>> {
+fn load_prefixes(filename: &std::ffi::OsStr) -> Result<Vec<[u8; 3]>, Box<dyn std::error::Error>> {
     let stdin;
-    let reader: Box<BufRead> = if filename == std::ffi::OsStr::new("-") {
+    let reader: Box<dyn BufRead> = if filename == std::ffi::OsStr::new("-") {
         stdin = std::io::stdin();
         Box::new(stdin.lock())
     } else {
@@ -222,7 +222,7 @@ fn main_lookup(_app_m: &clap::ArgMatches, sub_m: &clap::ArgMatches) {
                     "Searching for preimages in file: {}",
                     path.to_string_lossy()
                 );
-                let mut reader = std::io::BufReader::new(f);
+                let reader = std::io::BufReader::new(f);
                 let preimage = match table::lookup(&hash, &prefix, reader) {
                     Ok(Some(x)) => x,
                     Ok(None) => {
@@ -259,8 +259,8 @@ fn main_hash(_app_m: &clap::ArgMatches, sub_m: &clap::ArgMatches) {
     };
 
     let mut hasher = Sha256::new();
-    hasher.input(addr.into_array());
-    let hash = hasher.result_reset();
+    hasher.update(addr.into_array());
+    let hash = hasher.finalize_reset();
     for b in hash {
         print!("{:02x}", b);
     }
