@@ -1,7 +1,7 @@
 [package]
 name = "mac-minitables"
 version = "0.1.0"
-authors = ["Daan Sprenkels <hello@dsprenkels.com>"]
+authors = ["Daan Sprenkels <daan@dsprenkels.com>"]
 description = "Lookup table tool for reversing MAC address hashes"
 edition = "2018"
 
