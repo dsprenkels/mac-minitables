@@ -200,7 +200,7 @@ where
     // Read the end index of the preimage list
     let end_idx = match table.read_exact(&mut buf) {
         Ok(()) => u64::from(buf[0]) << 16 | u64::from(buf[1]) << 8 | u64::from(buf[2]),
-        Err(ref x) if x.kind() == io::ErrorKind::UnexpectedEof => 2_u64.pow(24),
+        Err(x) if x.kind() == io::ErrorKind::UnexpectedEof => 2_u64.pow(24),
         Err(_) => unreachable!(),
     };
 
@@ -209,7 +209,7 @@ where
     table
         .seek(io::SeekFrom::Start(FILE_INDEX_LEN + 3 * start_idx))
         .expect("unreachable: negative u64");
-    for _ in 0..(end_idx - start_idx) {
+    for _ in 0..end_idx.saturating_sub(start_idx) {
         table.read_exact(&mut buf)?;
         let addr = MACAddress::from((prefix, &buf));
         hasher.update(addr.into_array());

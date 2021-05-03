@@ -183,7 +183,7 @@ fn main_lookup(_app_m: &clap::ArgMatches, sub_m: &clap::ArgMatches) {
         .expect("no MAC address hash provided");
     let hash = match parse_hash(hash_str) {
         Ok(buf) => buf,
-        Err(err) => panic!(err),
+        Err(err) => panic!("{}", err),
     };
 
     // Parse the hash
